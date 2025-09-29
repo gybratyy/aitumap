@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import { MapContext, useWindowDimensions } from "../shared";
+import classRoomSchedules from "../classroom_schedules.json"; // Import classroom schedules
+import groupSchedules from "../group_schedules.json";
 
 const MapProvider = ({ children }) => {
   const { width, height } = useWindowDimensions();
@@ -8,6 +10,57 @@ const MapProvider = ({ children }) => {
   const [selectedBlockOption, setSelectedBlockOption] = useState("");
   const [isKeyboardTyping, setIsKeyboardTyping] = useState(false);
   const [funMode, setFunMode] = useState(false);
+
+  const getClassroomStatus = (classroomName) => {
+    const now = new Date();
+    const dayOfWeek = now
+      .toLocaleString("en-US", { weekday: "long" })
+      .toLowerCase();
+    const currentTime = now.toTimeString().slice(0, 5);
+
+    const group = localStorage.getItem("group");
+    const groupSchedule = groupSchedules[group];
+
+    let isOccupied = false;
+    let isYourClassToday = false;
+    let isYourClassNow = false;
+
+    const classroomSchedule = classRoomSchedules[classroomName];
+
+    if (classroomSchedule && classroomSchedule[dayOfWeek]) {
+      classroomSchedule[dayOfWeek].forEach((classInfo) => {
+        const [startTime, endTime] = classInfo.time.split("-");
+        if (currentTime >= startTime && currentTime <= endTime) {
+          isOccupied = true;
+        }
+      });
+    }
+
+    if (groupSchedule && groupSchedule[dayOfWeek]) {
+      groupSchedule[dayOfWeek].forEach((classInfo) => {
+        if (classInfo.classroom === classroomName) {
+          isYourClassToday = true;
+          const [startTime, endTime] = classInfo.time.split("-");
+          if (currentTime >= startTime && currentTime <= endTime) {
+            isYourClassNow = true;
+          }
+        }
+      });
+    }
+
+    if (isYourClassNow) {
+      return "yourClassNow";
+    } else if (isYourClassToday) {
+      return "yourClassToday";
+    } else if (isOccupied) {
+      return "occupiedClassRoom";
+    } else {
+      return "freeClassRoom";
+    }
+  };
+
+
+
   const floorOptionData = [
     {
       id: 3,
@@ -232,6 +285,13 @@ const MapProvider = ({ children }) => {
         handleFloorOptionClick,
         setFunMode,
         funMode,
+        setIsKeyboardTyping,
+        setSelectedBlockOption,
+        setSelectedFloorOption,
+        setSearch,
+        classRoomSchedules,
+        groupSchedules,
+        getClassroomStatus,
       }}
     >
       {children}

@@ -1,0 +1,13 @@
+.map-groups-rooms g polyline.freeClassRoom,
+.map-groups-rooms g polygon.freeClassRoom {
+    fill: #96de96;
+}
+.map-groups-rooms g polyline.yourClassToday,.map-groups-rooms g polygon.yourClassToday {
+    fill: #4e4ec1;
+}
+.map-groups-rooms g polyline.occupiedClassRoom,.map-groups-rooms g polygon.occupiedClassRoom  {
+    fill: #2a51ce;
+}
+.map-groups-rooms g polyline.yourClassNow,.map-groups-rooms g polygon.yourClassNow {
+    fill: #ff0000;
+}
