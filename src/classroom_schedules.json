@@ -1,0 +1,2075 @@
+{
+  "online": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "AAI-2503M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "AAI-2505M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "AAI-2506M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "ADA-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "ADA-2502M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "ADA-2503M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "ADA-2504M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "CS-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "CSE-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "CSE-2502M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "CSE-2503M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "CSE-2504M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "CSE-2505M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "CSE-2506M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "CSE-2507M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "DBAIT-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "DPA-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "MT-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "PM-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "PM-2502M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "PM-2503M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "SSE-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Secure Software Architecture and Design",
+        "type": "lecture",
+        "instructor": "Ashraf Osman Ibrahim Elsayed",
+        "group": "SSE-2501M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "SSE-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Secure Software Architecture and Design",
+        "type": "lecture",
+        "instructor": "Ashraf Osman Ibrahim Elsayed",
+        "group": "SSE-2502M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "lecture",
+        "instructor": "Nursultan Mahanov",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "lecture",
+        "instructor": "Nursultan Mahanov",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "lecture",
+        "instructor": "Nursultan Mahanov",
+        "group": "AAI-2503M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "lecture",
+        "instructor": "Nursultan Mahanov",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "lecture",
+        "instructor": "Nursultan Mahanov",
+        "group": "AAI-2505M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "lecture",
+        "instructor": "Nursultan Mahanov",
+        "group": "AAI-2506M"
+      },
+      {
+        "time": "08:00-09:50",
+        "discipline": "Public Policy and e-Government",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "DPA-2501M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:00-08:50",
+        "discipline": "Public Policy and e-Government",
+        "type": "lecture",
+        "instructor": "https://learn.astanait.edu.kz/",
+        "group": "DPA-2501M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Secure Software Architecture and Design",
+        "type": "lecture",
+        "instructor": "Ashraf Osman Ibrahim Elsayed",
+        "group": "SSE-2501M"
+      },
+      {
+        "time": "18:00-18:50",
+        "discipline": "Secure Software Architecture and Design",
+        "type": "lecture",
+        "instructor": "Ashraf Osman Ibrahim Elsayed",
+        "group": "SSE-2502M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "11:00-12:50",
+        "discipline": "Secure Software Architecture and Design",
+        "type": "practice",
+        "instructor": "Ashraf Osman Ibrahim Elsayed",
+        "group": "SSE-2501M"
+      },
+      {
+        "time": "13:05-14:50",
+        "discipline": "Secure Software Architecture and Design",
+        "type": "practice",
+        "instructor": "Ashraf Osman Ibrahim Elsayed",
+        "group": "SSE-2502M"
+      }
+    ]
+  },
+  "C1.2.226P": {
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "SSE-2501M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "12:00-13:55",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Nursulu Belessova",
+        "group": "PM-2502M"
+      },
+      {
+        "time": "14:00-15:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Nursulu Belessova",
+        "group": "PM-2503M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "AAI-2503M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "DBAIT-2501M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "AAI-2505M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "MT-2501M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "SSE-2502M"
+      }
+    ]
+  },
+  "C1.1.223P": {
+    "monday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Ormanova Assel",
+        "group": "AAI-2501M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Ormanova Assel",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Elmira Gerfanova",
+        "group": "DBAIT-2501M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2503M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Saltanat Zhalmagambetova",
+        "group": "ADA-2501M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Elmira Gerfanova",
+        "group": "DBAIT-2501M"
+      }
+    ]
+  },
+  "C1.1.252L": {
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "AAI-2503M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "AAI-2505M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "AAI-2506M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "CS-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "DBAIT-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "DPA-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "MT-2501M"
+      }
+    ]
+  },
+  "C1.3.232P": {
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Azhmoldayev Gaziz",
+        "group": "AAI-2501M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-20:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Azhmoldayev Gaziz",
+        "group": "AAI-2501M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Saltanat Zhalmagambetova",
+        "group": "ADA-2504M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-13:55",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Saltanat Zhalmagambetova",
+        "group": "ADA-2504M"
+      }
+    ]
+  },
+  "C1.2.237L": {
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "AAI-2503M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "AAI-2505M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "AAI-2506M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "PM-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "PM-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "PM-2503M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "ADA-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "ADA-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "ADA-2503M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "ADA-2504M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2503M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2504M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2505M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2506M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2507M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "SSE-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "lecture",
+        "instructor": "Issakhanova Assel",
+        "group": "SSE-2502M"
+      }
+    ]
+  },
+  "C1.1.233P": {
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "AAI-2502M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2503M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "13:05-14:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "AAI-2503M"
+      },
+      {
+        "time": "16:00-17:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "AAI-2505M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2505M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "DBAIT-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "PM-2501M"
+      }
+    ]
+  },
+  "C1.1.254P": {
+    "friday": [
+      {
+        "time": "21:00-21:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Yerzhan Orazayev",
+        "group": "AAI-2504M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Yerzhan Orazayev",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "12:00-13:55",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2506M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "20:00-20:50",
+        "discipline": "Machine Learning for Business",
+        "type": "practice",
+        "instructor": "Mukushev Medet",
+        "group": "DBAIT-2501M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Machine Learning for Business",
+        "type": "practice",
+        "instructor": "Mukushev Medet",
+        "group": "DBAIT-2501M"
+      }
+    ]
+  },
+  "C1.1.227P": {
+    "monday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Azhmoldayev Gaziz",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Ormanova Assel",
+        "group": "AAI-2503M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Azhmoldayev Gaziz",
+        "group": "AAI-2502M"
+      },
+      {
+        "time": "18:00-18:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Azhmoldayev Gaziz",
+        "group": "AAI-2503M"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2506M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Azhmoldayev Gaziz",
+        "group": "AAI-2503M"
+      }
+    ]
+  },
+  "C1.1.225P": {
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Ormanova Assel",
+        "group": "AAI-2502M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Ormanova Assel",
+        "group": "AAI-2502M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Ormanova Assel",
+        "group": "AAI-2503M"
+      }
+    ]
+  },
+  "C1.1.344P": {
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aubakir Samal",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aubakir Samal",
+        "group": "AAI-2505M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aubakir Samal",
+        "group": "AAI-2504M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aubakir Samal",
+        "group": "AAI-2505M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aubakir Samal",
+        "group": "AAI-2506M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aubakir Samal",
+        "group": "AAI-2506M"
+      }
+    ]
+  },
+  "C1.1.255P": {
+    "friday": [
+      {
+        "time": "20:00-20:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2504M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for AI",
+        "type": "practice",
+        "instructor": "Arailym Tleubayeva",
+        "group": "AAI-2505M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Tleshova Zhibek",
+        "group": "CSE-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Tleshova Zhibek",
+        "group": "CSE-2505M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Tleshova Zhibek",
+        "group": "CSE-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Tleshova Zhibek",
+        "group": "CSE-2506M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Tleshova Zhibek",
+        "group": "CSE-2503M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Tleshova Zhibek",
+        "group": "CSE-2504M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Tleshova Zhibek",
+        "group": "CSE-2507M"
+      }
+    ]
+  },
+  "C1.1.228P": {
+    "saturday": [
+      {
+        "time": "21:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "AAI-2504M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Azimbayeva Gulzhan",
+        "group": "AAI-2506M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Issakhanova Assel",
+        "group": "PM-2501M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aliya Ayazbayeva",
+        "group": "CS-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aliya Ayazbayeva",
+        "group": "DPA-2501M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2507M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "type": "practice",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2503M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Project management",
+        "type": "practice",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "type": "practice",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2502M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aliya Ayazbayeva",
+        "group": "PM-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aliya Ayazbayeva",
+        "group": "PM-2503M"
+      }
+    ]
+  },
+  "C1.1.234P": {
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Yerzhan Orazayev",
+        "group": "AAI-2505M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Saltanat Zhalmagambetova",
+        "group": "ADA-2503M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Saltanat Zhalmagambetova",
+        "group": "ADA-2503M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Mathematics for Computational Science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "CS-2501M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "15:00-15:50",
+        "discipline": "Mathematics for Computational Science",
+        "type": "practice",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "CS-2501M"
+      }
+    ]
+  },
+  "C1.1.235P": {
+    "saturday": [
+      {
+        "time": "20:00-20:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Yerzhan Orazayev",
+        "group": "AAI-2505M"
+      },
+      {
+        "time": "17:00-17:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Yerzhan Orazayev",
+        "group": "AAI-2506M"
+      },
+      {
+        "time": "13:05-14:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aliya Ayazbayeva",
+        "group": "CS-2501M"
+      },
+      {
+        "time": "13:05-14:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aliya Ayazbayeva",
+        "group": "DPA-2501M"
+      },
+      {
+        "time": "15:00-16:50",
+        "discipline": "Public Policy and e-Government",
+        "type": "practice",
+        "instructor": "Maxat Kassen",
+        "group": "DPA-2501M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "type": "practice",
+        "instructor": "Yerzhan Orazayev",
+        "group": "AAI-2506M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Azimbayeva Gulzhan",
+        "group": "ADA-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Azimbayeva Gulzhan",
+        "group": "ADA-2504M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Azimbayeva Gulzhan",
+        "group": "ADA-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Saltanat Zhalmagambetova",
+        "group": "ADA-2502M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Azimbayeva Gulzhan",
+        "group": "ADA-2503M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Azimbayeva Gulzhan",
+        "group": "CS-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Azimbayeva Gulzhan",
+        "group": "DPA-2501M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aliya Ayazbayeva",
+        "group": "PM-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Aliya Ayazbayeva",
+        "group": "PM-2503M"
+      }
+    ]
+  },
+  "C1.2.227P": {
+    "saturday": [
+      {
+        "time": "14:00-15:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "AAI-2506M"
+      }
+    ]
+  },
+  "C1.3.361": {
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2503M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2504M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "type": "lecture",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2505M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "type": "lecture",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2506M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "type": "lecture",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2507M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "14:00-14:50",
+        "discipline": "Mathematics for data science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2501M"
+      },
+      {
+        "time": "14:00-14:50",
+        "discipline": "Mathematics for data science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2502M"
+      },
+      {
+        "time": "14:00-14:50",
+        "discipline": "Mathematics for data science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2503M"
+      },
+      {
+        "time": "14:00-14:50",
+        "discipline": "Mathematics for data science",
+        "type": "lecture",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2504M"
+      }
+    ]
+  },
+  "C1.1.253P": {
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "type": "practice",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Mathematics for data science",
+        "type": "practice",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2502M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Mathematics for data science",
+        "type": "practice",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2503M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Mathematics for data science",
+        "type": "practice",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "ADA-2504M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for Computational Science",
+        "type": "practice",
+        "instructor": "Akhmed-Zaki Dinara",
+        "group": "CS-2501M"
+      }
+    ]
+  },
+  "C1.1.226P": {
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Saltanat Zhalmagambetova",
+        "group": "ADA-2501M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "CS-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Menlibekova Gulbakhyt",
+        "group": "DPA-2501M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2504M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2503M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2505M"
+      },
+      {
+        "time": "14:00-15:50",
+        "discipline": "Psychology of Management",
+        "type": "practice",
+        "instructor": "Issakhanova Assel",
+        "group": "CSE-2506M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Akhmetbekova Asel",
+        "group": "CSE-2507M"
+      }
+    ]
+  },
+  "C1.1.334L": {
+    "wednesday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "ADA-2501M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "ADA-2502M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "ADA-2503M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "lecture",
+        "instructor": "Svitlana Biloshchytskaya",
+        "group": "ADA-2504M"
+      }
+    ]
+  },
+  "C1.1.365P": {
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "practice",
+        "instructor": "Alimzhanov Almas",
+        "group": "ADA-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "practice",
+        "instructor": "Alimzhanov Almas",
+        "group": "ADA-2503M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "practice",
+        "instructor": "Alimzhanov Almas",
+        "group": "ADA-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Elmira Gerfanova",
+        "group": "MT-2501M"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "type": "practice",
+        "instructor": "Alimzhanov Almas",
+        "group": "ADA-2504M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Elmira Gerfanova",
+        "group": "SSE-2501M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Elmira Gerfanova",
+        "group": "MT-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Elmira Gerfanova",
+        "group": "SSE-2501M"
+      }
+    ]
+  },
+  "C1.1.366P": {
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Saltanat Zhalmagambetova",
+        "group": "ADA-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Maiya Abzhaparova",
+        "group": "CSE-2502M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Maiya Abzhaparova",
+        "group": "CSE-2501M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Maiya Abzhaparova",
+        "group": "CSE-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Maiya Abzhaparova",
+        "group": "CSE-2503M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-13:55",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Maiya Abzhaparova",
+        "group": "CSE-2502M"
+      },
+      {
+        "time": "14:00-15:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Maiya Abzhaparova",
+        "group": "CSE-2504M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Maiya Abzhaparova",
+        "group": "CSE-2503M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Elmira Gerfanova",
+        "group": "SSE-2502M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Maiya Abzhaparova",
+        "group": "CSE-2504M"
+      }
+    ]
+  },
+  "C1.3.370": {
+    "monday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "type": "lecture",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2501M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "type": "lecture",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "type": "lecture",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2503M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "type": "lecture",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2504M"
+      }
+    ]
+  },
+  "C1.2.228K": {
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2501M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2505M"
+      },
+      {
+        "time": "18:00-18:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2506M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2501M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2504M"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2507M"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2503M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2502M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2503M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2505M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2504M"
+      },
+      {
+        "time": "12:00-13:55",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2506M"
+      },
+      {
+        "time": "14:00-15:50",
+        "discipline": "Advanced databases",
+        "type": "practice",
+        "instructor": "Kaibassova Dinara",
+        "group": "CSE-2507M"
+      }
+    ]
+  },
+  "C1.1.224P": {
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Akhmetbekova Asel",
+        "group": "CSE-2505M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Akhmetbekova Asel",
+        "group": "CSE-2506M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Akhmetbekova Asel",
+        "group": "CSE-2505M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Akhmetbekova Asel",
+        "group": "CSE-2506M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Akhmetbekova Asel",
+        "group": "CSE-2507M"
+      },
+      {
+        "time": "16:00-17:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Akhmetbekova Asel",
+        "group": "PM-2501M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Akhmetbekova Asel",
+        "group": "PM-2501M"
+      }
+    ]
+  },
+  "C1.1.347P": {
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Machine Learning for Business",
+        "type": "lecture",
+        "instructor": "Mukushev Medet",
+        "group": "DBAIT-2501M"
+      }
+    ]
+  },
+  "Technology & Culture\"": {
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "\"Media",
+        "type": "C1.1.347P",
+        "instructor": "lecture",
+        "group": "MT-2501M"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-12:50",
+        "discipline": "\"Media",
+        "type": "C1.1.347P",
+        "instructor": "lecture",
+        "group": "MT-2501M"
+      },
+      {
+        "time": "13:05-14:50",
+        "discipline": "\"Media",
+        "type": "C1.1.223P",
+        "instructor": "practice",
+        "group": "MT-2501M"
+      }
+    ]
+  },
+  "C1.3.236": {
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "MT-2501M"
+      }
+    ],
+    "monday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "PM-2502M"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "PM-2503M"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "SSE-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "type": "practice",
+        "instructor": "Kassenov Khanat",
+        "group": "SSE-2502M"
+      }
+    ]
+  },
+  "C1.1.328L": {
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "type": "lecture",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2501M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "type": "lecture",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2502M"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "type": "lecture",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2503M"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Project management",
+        "type": "lecture",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2501M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Project management",
+        "type": "lecture",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2502M"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Project management",
+        "type": "lecture",
+        "instructor": "Ibadildin Nurkhat",
+        "group": "PM-2503M"
+      }
+    ]
+  },
+  "C1.1.355P": {
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "type": "practice",
+        "instructor": "Elmira Gerfanova",
+        "group": "SSE-2502M"
+      }
+    ]
+  }
+}

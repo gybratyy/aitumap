@@ -1,0 +1,2137 @@
+{
+  "AAI-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.223P",
+        "type": "practice",
+        "lecturer": "Ormanova Assel"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Nursultan Mahanov"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.3.232P",
+        "type": "practice",
+        "lecturer": "Azhmoldayev Gaziz"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.223P",
+        "type": "practice",
+        "lecturer": "Ormanova Assel"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.3.232P",
+        "type": "practice",
+        "lecturer": "Azhmoldayev Gaziz"
+      },
+      {
+        "time": "21:00-21:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.254P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.254P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      }
+    ]
+  },
+  "AAI-2502M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.227P",
+        "type": "practice",
+        "lecturer": "Azhmoldayev Gaziz"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Nursultan Mahanov"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.225P",
+        "type": "practice",
+        "lecturer": "Ormanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.223P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.227P",
+        "type": "practice",
+        "lecturer": "Azhmoldayev Gaziz"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.225P",
+        "type": "practice",
+        "lecturer": "Ormanova Assel"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      }
+    ]
+  },
+  "AAI-2503M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.227P",
+        "type": "practice",
+        "lecturer": "Ormanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Nursultan Mahanov"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.227P",
+        "type": "practice",
+        "lecturer": "Azhmoldayev Gaziz"
+      },
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.223P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.225P",
+        "type": "practice",
+        "lecturer": "Ormanova Assel"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.227P",
+        "type": "practice",
+        "lecturer": "Azhmoldayev Gaziz"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "13:05-14:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      }
+    ]
+  },
+  "AAI-2504M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.344P",
+        "type": "practice",
+        "lecturer": "Aubakir Samal"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Nursultan Mahanov"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.344P",
+        "type": "practice",
+        "lecturer": "Aubakir Samal"
+      }
+    ],
+    "friday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.254P",
+        "type": "practice",
+        "lecturer": "Yerzhan Orazayev"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.254P",
+        "type": "practice",
+        "lecturer": "Yerzhan Orazayev"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      },
+      {
+        "time": "21:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      }
+    ]
+  },
+  "AAI-2505M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.344P",
+        "type": "practice",
+        "lecturer": "Aubakir Samal"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Nursultan Mahanov"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      }
+    ],
+    "friday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.234P",
+        "type": "practice",
+        "lecturer": "Yerzhan Orazayev"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.344P",
+        "type": "practice",
+        "lecturer": "Aubakir Samal"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Yerzhan Orazayev"
+      }
+    ]
+  },
+  "AAI-2506M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Azimbayeva Gulzhan"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Nursultan Mahanov"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.344P",
+        "type": "practice",
+        "lecturer": "Aubakir Samal"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Yerzhan Orazayev"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.227P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.344P",
+        "type": "practice",
+        "lecturer": "Aubakir Samal"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-13:55",
+        "discipline": "Programming for AI",
+        "classroom": "C1.1.254P",
+        "type": "practice",
+        "lecturer": "Arailym Tleubayeva"
+      },
+      {
+        "time": "14:00-15:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.227P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      },
+      {
+        "time": "17:00-17:50",
+        "discipline": "AI Essentials: Theory and Applications",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Yerzhan Orazayev"
+      }
+    ]
+  },
+  "ADA-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.1.253P",
+        "type": "practice",
+        "lecturer": "Akhmed-Zaki Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Saltanat Zhalmagambetova"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.1.334L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Azimbayeva Gulzhan"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.223P",
+        "type": "practice",
+        "lecturer": "Saltanat Zhalmagambetova"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.1.365P",
+        "type": "practice",
+        "lecturer": "Alimzhanov Almas"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "14:00-14:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      }
+    ]
+  },
+  "ADA-2502M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Saltanat Zhalmagambetova"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.1.253P",
+        "type": "practice",
+        "lecturer": "Akhmed-Zaki Dinara"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.1.334L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.1.365P",
+        "type": "practice",
+        "lecturer": "Alimzhanov Almas"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Azimbayeva Gulzhan"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Saltanat Zhalmagambetova"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "14:00-14:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      }
+    ]
+  },
+  "ADA-2503M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Azimbayeva Gulzhan"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.1.334L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.234P",
+        "type": "practice",
+        "lecturer": "Saltanat Zhalmagambetova"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.1.253P",
+        "type": "practice",
+        "lecturer": "Akhmed-Zaki Dinara"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.234P",
+        "type": "practice",
+        "lecturer": "Saltanat Zhalmagambetova"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.1.365P",
+        "type": "practice",
+        "lecturer": "Alimzhanov Almas"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "14:00-14:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      }
+    ]
+  },
+  "ADA-2504M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.1.365P",
+        "type": "practice",
+        "lecturer": "Alimzhanov Almas"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Programming for data analysis and databases",
+        "classroom": "C1.1.334L",
+        "type": "lecture",
+        "lecturer": "Svitlana Biloshchytskaya"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.3.232P",
+        "type": "practice",
+        "lecturer": "Saltanat Zhalmagambetova"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Azimbayeva Gulzhan"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-13:55",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.3.232P",
+        "type": "practice",
+        "lecturer": "Saltanat Zhalmagambetova"
+      },
+      {
+        "time": "14:00-14:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      },
+      {
+        "time": "16:00-17:50",
+        "discipline": "Mathematics for data science",
+        "classroom": "C1.1.253P",
+        "type": "practice",
+        "lecturer": "Akhmed-Zaki Dinara"
+      }
+    ]
+  },
+  "CS-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Mathematics for Computational Science",
+        "classroom": "C1.1.234P",
+        "type": "lecture",
+        "lecturer": "Akhmed-Zaki Dinara"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Azimbayeva Gulzhan"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Mathematics for Computational Science",
+        "classroom": "C1.1.253P",
+        "type": "practice",
+        "lecturer": "Akhmed-Zaki Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Aliya Ayazbayeva"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "13:05-14:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Aliya Ayazbayeva"
+      },
+      {
+        "time": "15:00-15:50",
+        "discipline": "Mathematics for Computational Science",
+        "classroom": "C1.1.234P",
+        "type": "practice",
+        "lecturer": "Akhmed-Zaki Dinara"
+      }
+    ]
+  },
+  "CSE-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.3.370",
+        "type": "lecture",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Maiya Abzhaparova"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Tleshova Zhibek"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Maiya Abzhaparova"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Issakhanova Assel"
+      }
+    ]
+  },
+  "CSE-2502M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.3.370",
+        "type": "lecture",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Maiya Abzhaparova"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Tleshova Zhibek"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-13:55",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Maiya Abzhaparova"
+      }
+    ]
+  },
+  "CSE-2503M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.3.370",
+        "type": "lecture",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Tleshova Zhibek"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Maiya Abzhaparova"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "friday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Maiya Abzhaparova"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Issakhanova Assel"
+      }
+    ]
+  },
+  "CSE-2504M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.3.370",
+        "type": "lecture",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Tleshova Zhibek"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Maiya Abzhaparova"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "14:00-15:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Maiya Abzhaparova"
+      },
+      {
+        "time": "16:00-17:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ]
+  },
+  "CSE-2505M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.224P",
+        "type": "practice",
+        "lecturer": "Akhmetbekova Asel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Tleshova Zhibek"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.224P",
+        "type": "practice",
+        "lecturer": "Akhmetbekova Asel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Issakhanova Assel"
+      }
+    ]
+  },
+  "CSE-2506M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.224P",
+        "type": "practice",
+        "lecturer": "Akhmetbekova Asel"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Tleshova Zhibek"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.224P",
+        "type": "practice",
+        "lecturer": "Akhmetbekova Asel"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-13:55",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "14:00-15:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Issakhanova Assel"
+      }
+    ]
+  },
+  "CSE-2507M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Akhmetbekova Asel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.3.361",
+        "type": "lecture",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.255P",
+        "type": "practice",
+        "lecturer": "Tleshova Zhibek"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "14:00-15:50",
+        "discipline": "Advanced databases",
+        "classroom": "C1.2.228K",
+        "type": "practice",
+        "lecturer": "Kaibassova Dinara"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.224P",
+        "type": "practice",
+        "lecturer": "Akhmetbekova Asel"
+      }
+    ]
+  },
+  "DBAIT-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-20:50",
+        "discipline": "Machine Learning for Business",
+        "classroom": "C1.1.254P",
+        "type": "practice",
+        "lecturer": "Mukushev Medet"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.223P",
+        "type": "practice",
+        "lecturer": "Elmira Gerfanova"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Machine Learning for Business",
+        "classroom": "C1.1.254P",
+        "type": "practice",
+        "lecturer": "Mukushev Medet"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Machine Learning for Business",
+        "classroom": "C1.1.347P",
+        "type": "lecture",
+        "lecturer": "Mukushev Medet"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.223P",
+        "type": "practice",
+        "lecturer": "Elmira Gerfanova"
+      }
+    ]
+  },
+  "DPA-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Public Policy and e-Government",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Azimbayeva Gulzhan"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Aliya Ayazbayeva"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "08:00-08:50",
+        "discipline": "Public Policy and e-Government",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "13:05-14:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Aliya Ayazbayeva"
+      },
+      {
+        "time": "15:00-16:50",
+        "discipline": "Public Policy and e-Government",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Maxat Kassen"
+      }
+    ]
+  },
+  "MT-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.252L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "\"Media",
+        "classroom": "Technology & Culture\"",
+        "type": "C1.1.347P",
+        "lecturer": "lecture"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.365P",
+        "type": "practice",
+        "lecturer": "Elmira Gerfanova"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.3.236",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.365P",
+        "type": "practice",
+        "lecturer": "Elmira Gerfanova"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-12:50",
+        "discipline": "\"Media",
+        "classroom": "Technology & Culture\"",
+        "type": "C1.1.347P",
+        "lecturer": "lecture"
+      },
+      {
+        "time": "13:05-14:50",
+        "discipline": "\"Media",
+        "classroom": "Technology & Culture\"",
+        "type": "C1.1.223P",
+        "lecturer": "practice"
+      }
+    ]
+  },
+  "PM-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.1.233P",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.328L",
+        "type": "lecture",
+        "lecturer": "Ibadildin Nurkhat"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.328L",
+        "type": "lecture",
+        "lecturer": "Ibadildin Nurkhat"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.224P",
+        "type": "practice",
+        "lecturer": "Akhmetbekova Asel"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Ibadildin Nurkhat"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "16:00-17:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.224P",
+        "type": "practice",
+        "lecturer": "Akhmetbekova Asel"
+      }
+    ]
+  },
+  "PM-2502M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Aliya Ayazbayeva"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.3.236",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Aliya Ayazbayeva"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.328L",
+        "type": "lecture",
+        "lecturer": "Ibadildin Nurkhat"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.328L",
+        "type": "lecture",
+        "lecturer": "Ibadildin Nurkhat"
+      }
+    ],
+    "friday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Ibadildin Nurkhat"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "12:00-13:55",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Nursulu Belessova"
+      }
+    ]
+  },
+  "PM-2503M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.3.236",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.235P",
+        "type": "practice",
+        "lecturer": "Aliya Ayazbayeva"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Aliya Ayazbayeva"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.328L",
+        "type": "lecture",
+        "lecturer": "Ibadildin Nurkhat"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "19:00-19:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.328L",
+        "type": "lecture",
+        "lecturer": "Ibadildin Nurkhat"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Project management",
+        "classroom": "C1.1.228P",
+        "type": "practice",
+        "lecturer": "Ibadildin Nurkhat"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "14:00-15:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Nursulu Belessova"
+      }
+    ]
+  },
+  "SSE-2501M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Secure Software Architecture and Design",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Ashraf Osman Ibrahim Elsayed"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.365P",
+        "type": "practice",
+        "lecturer": "Elmira Gerfanova"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Secure Software Architecture and Design",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Ashraf Osman Ibrahim Elsayed"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.365P",
+        "type": "practice",
+        "lecturer": "Elmira Gerfanova"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.3.236",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "11:00-12:50",
+        "discipline": "Secure Software Architecture and Design",
+        "classroom": "online",
+        "type": "practice",
+        "lecturer": "Ashraf Osman Ibrahim Elsayed"
+      }
+    ]
+  },
+  "SSE-2502M": {
+    "monday": [
+      {
+        "time": "08:00-09:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "https://learn.astanait.edu.kz/"
+      },
+      {
+        "time": "18:00-19:50",
+        "discipline": "Secure Software Architecture and Design",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Ashraf Osman Ibrahim Elsayed"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.237L",
+        "type": "lecture",
+        "lecturer": "Issakhanova Assel"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "18:00-18:50",
+        "discipline": "Secure Software Architecture and Design",
+        "classroom": "online",
+        "type": "lecture",
+        "lecturer": "Ashraf Osman Ibrahim Elsayed"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.355P",
+        "type": "practice",
+        "lecturer": "Elmira Gerfanova"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Psychology of Management",
+        "classroom": "C1.2.226P",
+        "type": "practice",
+        "lecturer": "Menlibekova Gulbakhyt"
+      }
+    ],
+    "friday": [
+      {
+        "time": "18:00-19:50",
+        "discipline": "Foreign language (professional)",
+        "classroom": "C1.1.366P",
+        "type": "practice",
+        "lecturer": "Elmira Gerfanova"
+      },
+      {
+        "time": "20:00-21:50",
+        "discipline": "Higher Education Pedagogy",
+        "classroom": "C1.3.236",
+        "type": "practice",
+        "lecturer": "Kassenov Khanat"
+      }
+    ],
+    "saturday": [
+      {
+        "time": "13:05-14:50",
+        "discipline": "Secure Software Architecture and Design",
+        "classroom": "online",
+        "type": "practice",
+        "lecturer": "Ashraf Osman Ibrahim Elsayed"
+      }
+    ]
+  }
+}

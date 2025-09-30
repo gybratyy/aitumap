@@ -2,15 +2,21 @@ import IconsEscapesSecondThird from "../general/map/IconsEscapesSecondThird";
 import IconsEscapeFirstSecond from "../general/map/IconsEscapesFirstSecond";
 import MapLayout from "../layout/MapLayout";
 import Stairs from "../general/map/Stairs";
+import {useContext} from "react";
+import {MapContext} from "../../util";
 
-const SecondFloorAll = () => {
+const SecondFloorAll = ({onClassroomClick}) => {
+    const { getClassroomStatus } = useContext(MapContext);
+    const getClassroomColor = (classroomName) => {
+        return getClassroomStatus(classroomName);
+    };
   return (
     <MapLayout>
       <g id="SECOND_FLOOR_IOS">
         <g id="C1.3">
           <g className="map-groups-rooms">
-            <g id="C1.3.267P" data-name="C1.3.267P">
-              <polyline points="775.83 316.2 773.22 315.23 781.36 293.03 808.04 303.16 798.82 324.84 779.38 317.64" />
+            <g id="C1.3.267P" data-name="C1.3.267P" onClick={() => onClassroomClick("C1.3.267P")}>
+              <polyline className={getClassroomColor("C1.3.267P")} points="775.83 316.2 773.22 315.23 781.36 293.03 808.04 303.16 798.82 324.84 779.38 317.64" />
               <text
                 className="fit-text"
                 transform="translate(780.42 312.18) scale(0.98 1)"
@@ -18,8 +24,8 @@ const SecondFloorAll = () => {
                 267P
               </text>
             </g>
-            <g id="C1.3.266P" data-name="C1.3.266P">
-              <polyline points="766.83 313.24 749.13 307.06 756.79 284.43 781.36 293.03 773.22 315.23 770.22 314.28" />
+            <g id="C1.3.266P" data-name="C1.3.266P" onClick={() => onClassroomClick("C1.3.266P")}>
+              <polyline className={getClassroomColor("C1.3.266P")} points="766.83 313.24 749.13 307.06 756.79 284.43 781.36 293.03 773.22 315.23 770.22 314.28" />
               <text
                 className="fit-text"
                 transform="translate(754.08 303.79) scale(0.98 1)"
@@ -27,21 +33,21 @@ const SecondFloorAll = () => {
                 266P
               </text>
             </g>
-            <g id="C1.3.264L" data-name="C1.3.264L">
+            <g id="C1.3.264L" data-name="C1.3.264L" onClick={() => onClassroomClick("C1.3.264L")}>
               <line x1="765.2" y1="325.8" x2="787.84" y2="334.25" />
               <polyline points="791.21 335.51 793.99 336.55 775.65 381.74 744.65 370.02 761.45 324.4 763.16 325.04" />
               <text transform="translate(757.11 357.02) scale(0.98 1)">
                 264L
               </text>
             </g>
-            <g id="C1.3.263P" data-name="C1.3.263P">
-              <polyline points="791.4 354.98 819.96 367.92 805 394.87 775.65 381.74 787.27 353.12 788.6 353.72" />
+            <g id="C1.3.263P" data-name="C1.3.263P" onClick={() => onClassroomClick("C1.3.263P")}>
+              <polyline className={getClassroomColor("C1.3.263P")} points="791.4 354.98 819.96 367.92 805 394.87 775.65 381.74 787.27 353.12 788.6 353.72" />
               <text transform="matrix(0.89, 0.41, -0.4, 0.92, 783.94, 373.4)">
                 263P
               </text>
             </g>
-            <g id="C1.3.262P" data-name="C1.3.262P">
-              <polyline points="798.87 351.85 807.34 333.83 832.38 345.55 819.96 367.92 796.3 357.05 797.06 355.5" />
+            <g id="C1.3.262P" data-name="C1.3.262P" onClick={() => onClassroomClick("C1.3.262P")}>
+              <polyline className={getClassroomColor("C1.3.262P")} points="798.87 351.85 807.34 333.83 832.38 345.55 819.96 367.92 796.3 357.05 797.06 355.5" />
               <text
                 className="fit-text"
                 transform="matrix(0.88, 0.44, -0.43, 0.9, 803.63, 349.55)"
@@ -49,8 +55,8 @@ const SecondFloorAll = () => {
                 262P
               </text>
             </g>
-            <g id="C1.3.261P" data-name="C1.3.261P">
-              <polyline points="811.78 324.04 814.28 318.72 840.51 330.92 832.38 345.55 807.34 333.83 809.29 329.37" />
+            <g id="C1.3.261P" data-name="C1.3.261P" onClick={() => onClassroomClick("C1.3.261P")}>
+              <polyline className={getClassroomColor("C1.3.261P")} points="811.78 324.04 814.28 318.72 840.51 330.92 832.38 345.55 807.34 333.83 809.29 329.37" />
               <text
                 className="fit-text"
                 transform="matrix(0.88, 0.44, -0.43, 0.9, 813.54, 330.94)"
@@ -58,8 +64,8 @@ const SecondFloorAll = () => {
                 261P
               </text>
             </g>
-            <g id="C1.3.260P" data-name="C1.3.260P">
-              <polyline points="818.35 310.02 821 304.37 848.25 316.97 840.51 330.92 814.28 318.72 816.56 313.86" />
+            <g id="C1.3.260P" data-name="C1.3.260P" onClick={() => onClassroomClick("C1.3.260P")}>
+              <polyline className={getClassroomColor("C1.3.260P")} points="818.35 310.02 821 304.37 848.25 316.97 840.51 330.92 814.28 318.72 816.56 313.86" />
               <text
                 className="fit-text"
                 transform="matrix(0.88, 0.44, -0.43, 0.9, 821.06, 316.99)"
@@ -67,8 +73,8 @@ const SecondFloorAll = () => {
                 260P
               </text>
             </g>
-            <g id="C1.3.259P" data-name="C1.3.259P">
-              <polyline points="824.87 296.13 827.45 290.62 855.69 303.56 848.25 316.97 821 304.37 822.96 300.2" />
+            <g id="C1.3.259P" data-name="C1.3.259P" onClick={() => onClassroomClick("C1.3.259P")}>
+              <polyline className={getClassroomColor("C1.3.259P")} points="824.87 296.13 827.45 290.62 855.69 303.56 848.25 316.97 821 304.37 822.96 300.2" />
               <text
                 className="fit-text"
                 transform="matrix(0.89, 0.43, -0.42, 0.91, 828.48, 303.33)"
@@ -76,8 +82,8 @@ const SecondFloorAll = () => {
                 259P
               </text>
             </g>
-            <g id="C1.3.258P" data-name="C1.3.258P">
-              <polyline points="831.88 281.18 834.63 275.31 863.99 288.61 855.69 303.56 827.45 290.62 830.23 284.69" />
+            <g id="C1.3.258P" data-name="C1.3.258P" onClick={() => onClassroomClick("C1.3.258P")}>
+              <polyline className={getClassroomColor("C1.3.258P")} points="831.88 281.18 834.63 275.31 863.99 288.61 855.69 303.56 827.45 290.62 830.23 284.69" />
               <text
                 className="fit-text"
                 transform="matrix(0.9, 0.41, -0.39, 0.92, 835.62, 288.62)"
@@ -85,8 +91,8 @@ const SecondFloorAll = () => {
                 258P
               </text>
             </g>
-            <g id="C1.3.257P" data-name="C1.3.257P">
-              <polyline points="838.85 266.51 841.45 260.75 871.76 274.55 863.99 288.61 834.63 275.31 837.14 269.95" />
+            <g id="C1.3.257P" data-name="C1.3.257P" onClick={() => onClassroomClick("C1.3.257P")}>
+              <polyline className={getClassroomColor("C1.3.257P")} points="838.85 266.51 841.45 260.75 871.76 274.55 863.99 288.61 834.63 275.31 837.14 269.95" />
               <text
                 className="fit-text"
                 transform="matrix(0.9, 0.41, -0.4, 0.92, 842.95, 274.28)"
@@ -94,8 +100,8 @@ const SecondFloorAll = () => {
                 257P
               </text>
             </g>
-            <g id="C1.3.255L" data-name="C1.3.255L">
-              <polyline points="825.05 256.61 827.16 257.44 808.04 303.16 781.36 293.03 798.98 246.19 802.54 247.62" />
+            <g id="C1.3.255L" data-name="C1.3.255L" onClick={() => onClassroomClick("C1.3.255L")}>
+              <polyline className={getClassroomColor("C1.3.255L")} points="825.05 256.61 827.16 257.44 808.04 303.16 781.36 293.03 798.98 246.19 802.54 247.62" />
               <line x1="805.66" y1="248.86" x2="821.45" y2="255.17" />
               <text
                 className="fit-text"
@@ -104,8 +110,8 @@ const SecondFloorAll = () => {
                 255L
               </text>
             </g>
-            <g id="C1.3.254L" data-name="C1.3.254L">
-              <polyline points="796.13 245.21 798.98 246.19 781.36 293.03 756.79 284.43 772.48 237.02 775.53 238.07" />
+            <g id="C1.3.254L" data-name="C1.3.254L" onClick={() => onClassroomClick("C1.3.254L")}>
+              <polyline className={getClassroomColor("C1.3.254L")} points="796.13 245.21 798.98 246.19 781.36 293.03 756.79 284.43 772.48 237.02 775.53 238.07" />
               <line x1="777.73" y1="238.83" x2="791.26" y2="243.52" />
               <text
                 className="fit-text"
@@ -114,8 +120,8 @@ const SecondFloorAll = () => {
                 254L
               </text>
             </g>
-            <g id="C1.3.253K" data-name="C1.3.253K">
-              <polyline points="845.7 251.69 848.39 245.97 879.33 260.99 871.72 274.66 841.45 260.75 843.98 255.37" />
+            <g id="C1.3.253K" data-name="C1.3.253K" onClick={() => onClassroomClick("C1.3.253K")}>
+              <polyline className={getClassroomColor("C1.3.253K")} points="845.7 251.69 848.39 245.97 879.33 260.99 871.72 274.66 841.45 260.75 843.98 255.37" />
               <text
                 className="fit-text"
                 transform="matrix(0.89, 0.42, -0.41, 0.91, 850.99, 260.27)"
@@ -123,8 +129,8 @@ const SecondFloorAll = () => {
                 253K
               </text>
             </g>
-            <g id="C1.3.252K" data-name="C1.3.252K">
-              <polyline points="852.3 237.63 854.65 232.6 886.95 247.26 879.33 260.99 848.3 246.15 850.7 241.03" />
+            <g id="C1.3.252K" data-name="C1.3.252K" onClick={() => onClassroomClick("C1.3.252K")}>
+              <polyline className={getClassroomColor("C1.3.252K")} points="852.3 237.63 854.65 232.6 886.95 247.26 879.33 260.99 848.3 246.15 850.7 241.03" />
               <text
                 className="fit-text"
                 transform="matrix(0.89, 0.43, -0.42, 0.91, 857.82, 245.92)"
@@ -132,8 +138,8 @@ const SecondFloorAll = () => {
                 252K
               </text>
             </g>
-            <g id="C1.3.251K" data-name="C1.3.251K">
-              <polyline points="859.13 223.06 861.93 217.08 894.83 233.06 886.95 247.26 854.65 232.6 857.57 226.38" />
+            <g id="C1.3.251K" data-name="C1.3.251K" onClick={() => onClassroomClick("C1.3.251K")}>
+              <polyline className={getClassroomColor("C1.3.251K")} points="859.13 223.06 861.93 217.08 894.83 233.06 886.95 247.26 854.65 232.6 857.57 226.38" />
               <text
                 className="fit-text"
                 transform="matrix(0.89, 0.41, -0.4, 0.92, 863.99, 232.18)"
@@ -141,8 +147,8 @@ const SecondFloorAll = () => {
                 251K
               </text>
             </g>
-            <g id="C1.3.250K" data-name="C1.3.250K">
-              <polyline points="866.06 208.24 868.33 203.51 902.9 218.53 894.83 233.06 861.93 217.08 864.36 211.89" />
+            <g id="C1.3.250K" data-name="C1.3.250K" onClick={() => onClassroomClick("C1.3.250K")}>
+              <polyline className={getClassroomColor("C1.3.250K")} points="866.06 208.24 868.33 203.51 902.9 218.53 894.83 233.06 861.93 217.08 864.36 211.89" />
               <text
                 className="fit-text"
                 transform="matrix(0.89, 0.41, -0.4, 0.92, 871.81, 217.58)"
@@ -150,8 +156,8 @@ const SecondFloorAll = () => {
                 250K
               </text>
             </g>
-            <g id="C1.3.249K" data-name="C1.3.249K">
-              <polyline points="870.13 199.68 868.33 203.51 902.9 218.53 909.84 206.04 874.34 190.66 872.45 194.6" />
+            <g id="C1.3.249K" data-name="C1.3.249K" onClick={() => onClassroomClick("C1.3.249K")}>
+              <polyline className={getClassroomColor("C1.3.249K")} points="870.13 199.68 868.33 203.51 902.9 218.53 909.84 206.04 874.34 190.66 872.45 194.6" />
               <text
                 className="fit-text"
                 transform="matrix(0.9, 0.4, -0.38, 0.92, 878.38, 203.46)"
@@ -159,8 +165,8 @@ const SecondFloorAll = () => {
                 249K
               </text>
             </g>
-            <g id="C1.3.248P" data-name="C1.3.248P">
-              <polyline points="823.09 229.85 839.56 236.42 849.6 215.91 824.67 206.21 816.82 227.34 819.65 228.48" />
+            <g id="C1.3.248P" data-name="C1.3.248P" onClick={() => onClassroomClick("C1.3.248P")}>
+              <polyline className={getClassroomColor("C1.3.248P")} points="823.09 229.85 839.56 236.42 849.6 215.91 824.67 206.21 816.82 227.34 819.65 228.48" />
               <text
                 className="fit-text"
                 transform="translate(823.77 223.99) scale(0.98 1)"
@@ -168,8 +174,8 @@ const SecondFloorAll = () => {
                 248P
               </text>
             </g>
-            <g id="C1.3.247P" data-name="C1.3.247P">
-              <polyline points="621.71 290.25 624.31 290.61 616.75 335.01 590.12 330.86 596.66 286.7 618.48 289.79" />
+            <g id="C1.3.247P" data-name="C1.3.247P" onClick={() => onClassroomClick("C1.3.247P")}>
+              <polyline className={getClassroomColor("C1.3.247P")} points="621.71 290.25 624.31 290.61 616.75 335.01 590.12 330.86 596.66 286.7 618.48 289.79" />
               <text
                 className="fit-text"
                 transform="translate(596.53 314.79) scale(0.98 1)"
@@ -177,8 +183,8 @@ const SecondFloorAll = () => {
                 247P
               </text>
             </g>
-            <g id="C1.3.246" data-name="C1.3.246">
-              <polyline points="646.66 295.37 649.41 295.95 640.69 339.95 616.75 335.01 624.31 290.61 643.83 294.76" />
+            <g id="C1.3.246" data-name="C1.3.246" onClick={() => onClassroomClick("C1.3.246")}>
+              <polyline className={getClassroomColor("C1.3.246")} points="646.66 295.37 649.41 295.95 640.69 339.95 616.75 335.01 624.31 290.61 643.83 294.76" />
               <text
                 className="fit-text"
                 transform="translate(622.26 318.83) scale(0.98 1)"
@@ -186,32 +192,32 @@ const SecondFloorAll = () => {
                 246P
               </text>
             </g>
-            <g id="C1.3.244P" data-name="C1.3.244P">
-              <polyline points="640.7 271.33 645.56 241.46 678.24 248.71 670.17 286.53 639.27 280.13 640.17 274.6" />
+            <g id="C1.3.244P" data-name="C1.3.244P" onClick={() => onClassroomClick("C1.3.244P")}>
+              <polyline className={getClassroomColor("C1.3.244P")} points="640.7 271.33 645.56 241.46 678.24 248.71 670.17 286.53 639.27 280.13 640.17 274.6" />
               <text transform="translate(647.51 267.04) scale(0.98 1)">
                 244P
               </text>
             </g>
-            <g id="C1.3.243P" data-name="C1.3.243P">
-              <polyline points="632.32 246.32 626.88 278.49 598.48 274.44 604.35 234.83 633.4 239.87 632.99 242.21" />
+            <g id="C1.3.243P" data-name="C1.3.243P" onClick={() => onClassroomClick("C1.3.243P")}>
+              <polyline className={getClassroomColor("C1.3.243P")} points="632.32 246.32 626.88 278.49 598.48 274.44 604.35 234.83 633.4 239.87 632.99 242.21" />
               <text transform="translate(604.35 261.18) scale(0.98 1)">
                 243P
               </text>
             </g>
-            <g id="C1.3.241P" data-name="C1.3.241P">
-              <polyline points="646.67 235.46 652.34 204.94 686.04 212.2 678.24 248.71 645.56 241.46 646.11 238.48" />
+            <g id="C1.3.241P" data-name="C1.3.241P" onClick={() => onClassroomClick("C1.3.241P")}>
+              <polyline className={getClassroomColor("C1.3.241P")} points="646.67 235.46 652.34 204.94 686.04 212.2 678.24 248.71 645.56 241.46 646.11 238.48" />
               <text transform="translate(653.42 230.97) scale(0.98 1)">
                 241P
               </text>
             </g>
-            <g id="C1.3.240P" data-name="C1.3.240P">
-              <polyline points="638.12 211.33 633.4 239.87 604.35 234.83 609.57 199.62 639.6 203.76 639.04 206.96" />
+            <g id="C1.3.240P" data-name="C1.3.240P" onClick={() => onClassroomClick("C1.3.240P")}>
+              <polyline className={getClassroomColor("C1.3.240P")} points="638.12 211.33 633.4 239.87 604.35 234.83 609.57 199.62 639.6 203.76 639.04 206.96" />
               <text transform="translate(609.71 224.95) scale(0.98 1)">
                 240P
               </text>
             </g>
-            <g id="C1.3.237P" data-name="C1.3.237P">
-              <polyline points="643.46 155.91 639.77 180.07 613.03 176.28 617.64 145.21 644.6 149.26 644.12 152.03" />
+            <g id="C1.3.237P" data-name="C1.3.237P" onClick={() => onClassroomClick("C1.3.237P")}>
+              <polyline className={getClassroomColor("C1.3.237P")} points="643.46 155.91 639.77 180.07 613.03 176.28 617.64 145.21 644.6 149.26 644.12 152.03" />
               <text
                 className="fit-text"
                 transform="translate(618.48 165.89) scale(0.98 1)"
@@ -219,14 +225,14 @@ const SecondFloorAll = () => {
                 237P
               </text>
             </g>
-            <g id="C1.3.234K" data-name="C1.3.234K">
-              <polyline points="794.13 219.55 816.82 227.34 835.65 176.66 800.33 164.79 783.52 215.91 790.76 218.39" />
+            <g id="C1.3.234K" data-name="C1.3.234K" onClick={() => onClassroomClick("C1.3.234K")}>
+              <polyline className={getClassroomColor("C1.3.234K")} points="794.13 219.55 816.82 227.34 835.65 176.66 800.33 164.79 783.52 215.91 790.76 218.39" />
               <text transform="translate(795.17 200.51) scale(0.98 1)">
                 234K
               </text>
             </g>
-            <g id="C1.3.233P" data-name="C1.3.233P">
-              <polyline points="842.77 179.16 863.12 186.49 849.6 215.91 824.67 206.21 835.65 176.66 839.56 178.03" />
+            <g id="C1.3.233P" data-name="C1.3.233P" onClick={() => onClassroomClick("C1.3.233P")}>
+              <polyline className={getClassroomColor("C1.3.233P")} points="842.77 179.16 863.12 186.49 849.6 215.91 824.67 206.21 835.65 176.66 839.56 178.03" />
               <text
                 className="fit-text"
                 transform="translate(833.21 200.51) scale(0.98 1)"
@@ -234,14 +240,14 @@ const SecondFloorAll = () => {
                 233P
               </text>
             </g>
-            <g id="C1.3.235L" data-name="C1.3.235L">
-              <polyline points="652.8 166.72 659.8 126.77 697.31 135.47 684.46 189.34 650.25 181.76 651.62 173.12" />
+            <g id="C1.3.235L" data-name="C1.3.235L" onClick={() => onClassroomClick("C1.3.235L")}>
+              <polyline className={getClassroomColor("C1.3.235L")} points="652.8 166.72 659.8 126.77 697.31 135.47 684.46 189.34 650.25 181.76 651.62 173.12" />
               <text transform="translate(662.94 158.63) scale(0.98 1)">
                 235L
               </text>
             </g>
-            <g id="C1.3.236P" data-name="C1.3.236P">
-              <polyline points="647.6 131.13 644.73 149.26 617.64 145.21 621.35 119.64 648.72 124.5 648.23 127.14" />
+            <g id="C1.3.236P" data-name="C1.3.236P" onClick={() => onClassroomClick("C1.3.236P")}>
+              <polyline className={getClassroomColor("C1.3.236P")} points="647.6 131.13 644.73 149.26 617.64 145.21 621.35 119.64 648.72 124.5 648.23 127.14" />
               <text
                 className="fit-text"
                 transform="translate(621.97 139.15) scale(0.98 1)"
@@ -249,74 +255,74 @@ const SecondFloorAll = () => {
                 236P
               </text>
             </g>
-            <g id="C1.3.232P" data-name="C1.3.232P">
-              <polyline points="885.21 179.24 883.43 178.52 896.9 146.86 899.29 147.57 902.12 140.78 911 146.49 917.61 152.98 922.57 162.43 923.69 170.45 922.74 178.52 920.49 185.75 917.43 192.36 890.04 181.21" />
+            <g id="C1.3.232P" data-name="C1.3.232P" onClick={() => onClassroomClick("C1.3.232P")}>
+              <polyline className={getClassroomColor("C1.3.232P")} points="885.21 179.24 883.43 178.52 896.9 146.86 899.29 147.57 902.12 140.78 911 146.49 917.61 152.98 922.57 162.43 923.69 170.45 922.74 178.52 920.49 185.75 917.43 192.36 890.04 181.21" />
               <text transform="translate(894.63 172.33) scale(0.98 1)">
                 232P
               </text>
             </g>
-            <g id="C1.3.231P" data-name="C1.3.231P">
-              <polyline points="881.44 177.72 883.43 178.52 896.9 146.86 899.29 147.57 902.12 140.78 870.99 128.32 854.58 167.93 877.95 176.42" />
+            <g id="C1.3.231P" data-name="C1.3.231P" onClick={() => onClassroomClick("C1.3.231P")}>
+              <polyline className={getClassroomColor("C1.3.231P")} points="881.44 177.72 883.43 178.52 896.9 146.86 899.29 147.57 902.12 140.78 870.99 128.32 854.58 167.93 877.95 176.42" />
               <text transform="matrix(0.42, -0.93, 0.9, 0.43, 877.16, 165.86)">
                 231P
               </text>
             </g>
-            <g id="C1.3.230P" data-name="C1.3.230P">
-              <polyline points="849.03 165.98 827.31 158.55 841.88 118.19 870.99 128.32 854.58 167.93 852.46 167.18" />
+            <g id="C1.3.230P" data-name="C1.3.230P" onClick={() => onClassroomClick("C1.3.230P")}>
+              <polyline className={getClassroomColor("C1.3.230P")} points="849.03 165.98 827.31 158.55 841.88 118.19 870.99 128.32 854.58 167.93 852.46 167.18" />
               <text transform="matrix(0.37, -0.95, 0.93, 0.37, 850.91, 154.81)">
                 230P
               </text>
             </g>
-            <g id="C1.3.229P" data-name="C1.3.229P">
-              <polyline points="825.6 157.98 827.31 158.55 841.88 118.19 811.57 108.19 798.03 149.11 822.2 156.85" />
+            <g id="C1.3.229P" data-name="C1.3.229P" onClick={() => onClassroomClick("C1.3.229P")}>
+              <polyline className={getClassroomColor("C1.3.229P")} points="825.6 157.98 827.31 158.55 841.88 118.19 811.57 108.19 798.03 149.11 822.2 156.85" />
               <text transform="matrix(0.3, -0.97, 0.95, 0.31, 822.17, 144.54)">
                 229P
               </text>
             </g>
-            <g id="C1.3.228K" data-name="C1.3.228K">
-              <polyline points="796.58 148.66 798.03 149.11 811.57 108.19 787.92 100.92 775.66 142.33 793.17 147.6" />
+            <g id="C1.3.228K" data-name="C1.3.228K" onClick={() => onClassroomClick("C1.3.228K")}>
+              <polyline className={getClassroomColor("C1.3.228K")} points="796.58 148.66 798.03 149.11 811.57 108.19 787.92 100.92 775.66 142.33 793.17 147.6" />
               <text transform="matrix(0.3, -0.97, 0.95, 0.31, 795.15, 135.61)">
                 228K
               </text>
             </g>
-            <g id="C1.3.227P" data-name="C1.3.227P">
-              <polyline points="773.6 141.73 775.66 142.33 787.92 100.92 764.51 94.15 753.23 135.92 769.97 140.67" />
+            <g id="C1.3.227P" data-name="C1.3.227P" onClick={() => onClassroomClick("C1.3.227P")}>
+              <polyline className={getClassroomColor("C1.3.227P")} points="773.6 141.73 775.66 142.33 787.92 100.92 764.51 94.15 753.23 135.92 769.97 140.67" />
               <text transform="matrix(0.27, -0.99, 0.96, 0.27, 773.45, 129.48)">
                 227P
               </text>
             </g>
-            <g id="C1.3.226P" data-name="C1.3.226P">
-              <polyline points="748.08 134.5 729.92 129.68 740.59 87.67 764.51 94.15 753.23 135.92 751.63 135.48" />
+            <g id="C1.3.226P" data-name="C1.3.226P" onClick={() => onClassroomClick("C1.3.226P")}>
+              <polyline className={getClassroomColor("C1.3.226P")} points="748.08 134.5 729.92 129.68 740.59 87.67 764.51 94.15 753.23 135.92 751.63 135.48" />
               <text transform="matrix(0.25, -0.99, 0.97, 0.26, 749.04, 122.01)">
                 226P
               </text>
             </g>
-            <g id="C1.3.225P" data-name="C1.3.225P">
-              <polyline points="727.95 129.17 729.92 129.68 740.59 87.67 717.11 81.75 707.37 124.06 724.62 128.32" />
+            <g id="C1.3.225P" data-name="C1.3.225P" onClick={() => onClassroomClick("C1.3.225P")}>
+              <polyline className={getClassroomColor("C1.3.225P")} points="727.95 129.17 729.92 129.68 740.59 87.67 717.11 81.75 707.37 124.06 724.62 128.32" />
               <text transform="matrix(0.24, -0.99, 0.97, 0.25, 725.52, 116.99)">
                 225P
               </text>
             </g>
-            <g id="C1.3.224P" data-name="C1.3.224P">
-              <polyline points="701.69 122.71 688.16 119.61 697.15 77.09 717.11 81.75 707.37 124.06 704.74 123.42" />
+            <g id="C1.3.224P" data-name="C1.3.224P" onClick={() => onClassroomClick("C1.3.224P")}>
+              <polyline className={getClassroomColor("C1.3.224P")} points="701.69 122.71 688.16 119.61 697.15 77.09 717.11 81.75 707.37 124.06 704.74 123.42" />
               <text transform="matrix(0.2, -1, 0.98, 0.2, 704.77, 110.52)">
                 224P
               </text>
             </g>
-            <g id="C1.3.223P" data-name="C1.3.223P">
-              <polyline points="683.12 118.49 665.72 114.83 674.2 72.18 697.15 77.09 688.16 119.61 685.92 119.11" />
+            <g id="C1.3.223P" data-name="C1.3.223P" onClick={() => onClassroomClick("C1.3.223P")}>
+              <polyline className={getClassroomColor("C1.3.223P")} points="683.12 118.49 665.72 114.83 674.2 72.18 697.15 77.09 688.16 119.61 685.92 119.11" />
               <text transform="matrix(0.21, -1, 0.98, 0.21, 683.77, 106.51)">
                 223P
               </text>
             </g>
-            <g id="C1.3.222P" data-name="C1.3.222P">
-              <polyline points="659.48 113.6 641.91 110.35 648.4 67.31 674.2 72.18 665.72 114.83 663.14 114.32" />
+            <g id="C1.3.222P" data-name="C1.3.222P" onClick={() => onClassroomClick("C1.3.222P")}>
+              <polyline className={getClassroomColor("C1.3.222P")} points="659.48 113.6 641.91 110.35 648.4 67.31 674.2 72.18 665.72 114.83 663.14 114.32" />
               <text transform="matrix(0.18, -1.01, 0.98, 0.18, 660.3, 101.87)">
                 222P
               </text>
             </g>
-            <g id="C1.3.221K" data-name="C1.3.221K">
-              <polyline points="630.03 108.39 623.26 107.3 629.62 64.37 648.4 67.31 641.91 110.35 633.76 108.98" />
+            <g id="C1.3.221K" data-name="C1.3.221K" onClick={() => onClassroomClick("C1.3.221K")}>
+              <polyline className={getClassroomColor("C1.3.221K")} points="630.03 108.39 623.26 107.3 629.62 64.37 648.4 67.31 641.91 110.35 633.76 108.98" />
               <text transform="matrix(0.19, -1.01, 0.98, 0.19, 638.36, 99.51)">
                 221K
               </text>
@@ -344,172 +350,172 @@ const SecondFloorAll = () => {
         </g>
         <g id="C1.2">
           <g className="map-groups-rooms">
-            <g id="C1.2.255" data-name="C1.2.255">
-              <polyline points="562.44 282.26 576.34 283.74 569.78 327.96 544.69 324.17 548.75 281.02 558.27 281.82" />
+            <g id="C1.2.255" data-name="C1.2.255" onClick={() => onClassroomClick("C1.2.255")}>
+              <polyline className={getClassroomColor("C1.2.255")} points="562.44 282.26 576.34 283.74 569.78 327.96 544.69 324.17 548.75 281.02 558.27 281.82" />
               <text transform="translate(549.96 308.88) scale(0.98 1)">
                 255
               </text>
             </g>
-            <g id="C1.2.254" data-name="C1.2.254">
-              <polyline points="541.86 280.52 548.75 281.02 544.69 324.17 512.13 321.32 513.72 278.49 536.15 280.11" />
+            <g id="C1.2.254" data-name="C1.2.254" onClick={() => onClassroomClick("C1.2.254")}>
+              <polyline className={getClassroomColor("C1.2.254")} points="541.86 280.52 548.75 281.02 544.69 324.17 512.13 321.32 513.72 278.49 536.15 280.11" />
               <text transform="translate(520.09 304.7) scale(0.98 1)">254</text>
             </g>
-            <g id="C1.2.252K" data-name="C1.2.252K">
-              <polyline points="537.79 243.52 538.01 241.09 496.68 238.54 495.8 264.55 535.57 267.04 537.32 248.46" />
+            <g id="C1.2.252K" data-name="C1.2.252K" onClick={() => onClassroomClick("C1.2.252K")}>
+              <polyline className={getClassroomColor("C1.2.252K")} points="537.79 243.52 538.01 241.09 496.68 238.54 495.8 264.55 535.57 267.04 537.32 248.46" />
               <text transform="translate(505.01 256.66) scale(0.98 1)">
                 252K
               </text>
             </g>
-            <g id="C1.2.251L" data-name="C1.2.251L">
-              <polyline points="550.72 260.09 549.96 268.16 578.15 271.48 583.77 233.56 553.57 229.93 551.08 256.35" />
+            <g id="C1.2.251L" data-name="C1.2.251L" onClick={() => onClassroomClick("C1.2.251L")}>
+              <polyline className={getClassroomColor("C1.2.251L")} points="550.72 260.09 549.96 268.16 578.15 271.48 583.77 233.56 553.57 229.93 551.08 256.35" />
               <text transform="translate(554.35 253.15) scale(0.98 1)">
                 251L
               </text>
             </g>
-            <g id="C1.2.250L" data-name="C1.2.250L">
-              <polyline points="540.14 218.54 540.39 215.86 497.53 213.21 496.68 238.54 538.01 241.09 539.82 221.97" />
+            <g id="C1.2.250L" data-name="C1.2.250L" onClick={() => onClassroomClick("C1.2.250L")}>
+              <polyline className={getClassroomColor("C1.2.250L")} points="540.14 218.54 540.39 215.86 497.53 213.21 496.68 238.54 538.01 241.09 539.82 221.97" />
               <text transform="translate(507.26 230.97) scale(0.98 1)">
                 250L
               </text>
             </g>
-            <g id="C1.2.249L" data-name="C1.2.249L">
-              <polyline points="554.21 223.09 553.57 229.93 583.77 233.56 589.26 196.53 557.01 193.35 554.52 219.82" />
+            <g id="C1.2.249L" data-name="C1.2.249L" onClick={() => onClassroomClick("C1.2.249L")}>
+              <polyline className={getClassroomColor("C1.2.249L")} points="554.21 223.09 553.57 229.93 583.77 233.56 589.26 196.53 557.01 193.35 554.52 219.82" />
               <text transform="translate(558.51 219.11) scale(0.98 1)">
                 249L
               </text>
             </g>
-            <g id="C1.2.248L" data-name="C1.2.248L">
-              <polyline points="535.94 191.69 498.31 190.38 497.53 213.21 540.39 215.86 542.65 191.92 539.19 191.8" />
+            <g id="C1.2.248L" data-name="C1.2.248L" onClick={() => onClassroomClick("C1.2.248L")}>
+              <polyline className={getClassroomColor("C1.2.248L")} points="535.94 191.69 498.31 190.38 497.53 213.21 540.39 215.86 542.65 191.92 539.19 191.8" />
               <text transform="translate(509.41 205.92) scale(0.98 1)">
                 248L
               </text>
             </g>
-            <g id="C1.2.246" data-name="C1.2.246">
-              <polyline points="358.04 282.72 348.51 283.85 355.05 327.96 374.84 324.9 369.77 281.47 362.1 282.29" />
+            <g id="C1.2.246" data-name="C1.2.246" onClick={() => onClassroomClick("C1.2.246")}>
+              <polyline className={getClassroomColor("C1.2.246")} points="358.04 282.72 348.51 283.85 355.05 327.96 374.84 324.9 369.77 281.47 362.1 282.29" />
               <text transform="matrix(0.15, 1.01, -0.99, 0.16, 356.93, 296.02)">
                 246
               </text>
             </g>
-            <g id="C1.2.245" data-name="C1.2.245">
-              <polyline points="380.34 280.71 369.77 281.47 374.84 324.9 412.91 321.29 411.08 278.49 385.55 280.33" />
+            <g id="C1.2.245" data-name="C1.2.245" onClick={() => onClassroomClick("C1.2.245")}>
+              <polyline className={getClassroomColor("C1.2.245")} points="380.34 280.71 369.77 281.47 374.84 324.9 412.91 321.29 411.08 278.49 385.55 280.33" />
               <text transform="translate(382.18 304.7) scale(0.98 1)">245</text>
             </g>
-            <g id="C1.2.243K" data-name="C1.2.243K">
-              <polyline points="388.65 260.57 387.04 243.52 428.22 240.67 429.05 265.13 389.27 267.12 388.96 263.82" />
+            <g id="C1.2.243K" data-name="C1.2.243K" onClick={() => onClassroomClick("C1.2.243K")}>
+              <polyline className={getClassroomColor("C1.2.243K")} points="388.65 260.57 387.04 243.52 428.22 240.67 429.05 265.13 389.27 267.12 388.96 263.82" />
               <text transform="translate(393.74 258.48) scale(0.98 1)">
                 243K
               </text>
             </g>
-            <g id="C1.2.242K" data-name="C1.2.242K">
-              <polyline points="386.4 236.72 384.6 217.59 427.37 215.36 428.22 240.67 387.04 243.52 386.75 240.36" />
+            <g id="C1.2.242K" data-name="C1.2.242K" onClick={() => onClassroomClick("C1.2.242K")}>
+              <polyline className={getClassroomColor("C1.2.242K")} points="386.4 236.72 384.6 217.59 427.37 215.36 428.22 240.67 387.04 243.52 386.75 240.36" />
               <text transform="translate(393.74 232.58) scale(0.98 1)">
                 242K
               </text>
             </g>
-            <g id="C1.2.241K" data-name="C1.2.241K">
-              <polyline points="372.07 238.53 374.72 268.16 346.63 271.48 341.35 235.55 371.45 231.89 371.76 235.21" />
+            <g id="C1.2.241K" data-name="C1.2.241K" onClick={() => onClassroomClick("C1.2.241K")}>
+              <polyline className={getClassroomColor("C1.2.241K")} points="372.07 238.53 374.72 268.16 346.63 271.48 341.35 235.55 371.45 231.89 371.76 235.21" />
               <text transform="translate(346.03 254.64) scale(0.98 1)">
                 241K
               </text>
             </g>
-            <g id="C1.2.240K" data-name="C1.2.240K">
-              <polyline points="383.98 210.96 382.18 191.9 426.52 190.38 427.37 215.36 384.6 217.59 384.31 214.54" />
+            <g id="C1.2.240K" data-name="C1.2.240K" onClick={() => onClassroomClick("C1.2.240K")}>
+              <polyline className={getClassroomColor("C1.2.240K")} points="383.98 210.96 382.18 191.9 426.52 190.38 427.37 215.36 384.6 217.59 384.31 214.54" />
               <text transform="translate(393.74 207.69) scale(0.98 1)">
                 240K
               </text>
             </g>
-            <g id="C1.2.239K" data-name="C1.2.239K">
-              <polyline points="368.61 201.79 371.45 231.89 341.35 235.55 335.57 196.56 367.82 193.33 368.23 197.76" />
+            <g id="C1.2.239K" data-name="C1.2.239K" onClick={() => onClassroomClick("C1.2.239K")}>
+              <polyline className={getClassroomColor("C1.2.239K")} points="368.61 201.79 371.45 231.89 341.35 235.55 335.57 196.56 367.82 193.33 368.23 197.76" />
               <text transform="translate(342.47 219.11) scale(0.98 1)">
                 239K
               </text>
             </g>
-            <g id="C1.2.237L" data-name="C1.2.237L">
-              <polyline points="346.46 171.47 332.03 172.67 323.76 116.88 395.09 110.53 398.69 167.15 351.76 171.04" />
+            <g id="C1.2.237L" data-name="C1.2.237L" onClick={() => onClassroomClick("C1.2.237L")}>
+              <polyline className={getClassroomColor("C1.2.237L")} points="346.46 171.47 332.03 172.67 323.76 116.88 395.09 110.53 398.69 167.15 351.76 171.04" />
               <text transform="translate(350.74 143.6) scale(0.98 1)">
                 237L
               </text>
             </g>
-            <g id="C1.2.234K" data-name="C1.2.234K">
-              <polyline points="581.22 115.13 601.07 116.9 592.8 172.68 561.43 170.08 567.25 113.88 577.78 114.82" />
+            <g id="C1.2.234K" data-name="C1.2.234K" onClick={() => onClassroomClick("C1.2.234K")}>
+              <polyline className={getClassroomColor("C1.2.234K")} points="581.22 115.13 601.07 116.9 592.8 172.68 561.43 170.08 567.25 113.88 577.78 114.82" />
               <text transform="translate(567.25 147.24) scale(0.98 1)">
                 234K
               </text>
             </g>
-            <g id="C1.2.233L" data-name="C1.2.233L">
-              <polyline points="527.18 151.59 529.74 110.52 567.25 113.88 561.43 170.08 526.13 167.15 526.91 155.89" />
+            <g id="C1.2.233L" data-name="C1.2.233L" onClick={() => onClassroomClick("C1.2.233L")}>
+              <polyline className={getClassroomColor("C1.2.233L")} points="527.18 151.59 529.74 110.52 567.25 113.88 561.43 170.08 526.13 167.15 526.91 155.89" />
               <text transform="translate(533.3 145.21) scale(0.98 1)">
                 233L
               </text>
             </g>
-            <g id="C1.2.232P" data-name="C1.2.232P">
-              <polyline points="587.64 102.26 602.9 104.55 609.28 61.48 585.44 57.85 581.06 101.35 584.25 101.79" />
+            <g id="C1.2.232P" data-name="C1.2.232P" onClick={() => onClassroomClick("C1.2.232P")}>
+              <polyline className={getClassroomColor("C1.2.232P")} points="587.64 102.26 602.9 104.55 609.28 61.48 585.44 57.85 581.06 101.35 584.25 101.79" />
               <text transform="matrix(-0.1, 1.02, -0.99, -0.11, 591.13, 69.92)">
                 232P
               </text>
             </g>
-            <g id="C1.2.231K" data-name="C1.2.231K">
-              <polyline points="578.08 100.95 581.06 101.35 585.44 57.85 560.65 54.71 556.81 98.38 574.19 100.45" />
+            <g id="C1.2.231K" data-name="C1.2.231K" onClick={() => onClassroomClick("C1.2.231K")}>
+              <polyline className={getClassroomColor("C1.2.231K")} points="578.08 100.95 581.06 101.35 585.44 57.85 560.65 54.71 556.81 98.38 574.19 100.45" />
               <text transform="matrix(-0.07, 1.02, -1, -0.07, 565.7, 65.92)">
                 231K
               </text>
             </g>
-            <g id="C1.2.230P" data-name="C1.2.230P">
-              <polyline points="545.02 97.17 556.81 98.38 560.65 54.71 540.73 52.67 538.23 96.55 541.26 96.82" />
+            <g id="C1.2.230P" data-name="C1.2.230P" onClick={() => onClassroomClick("C1.2.230P")}>
+              <polyline className={getClassroomColor("C1.2.230P")} points="545.02 97.17 556.81 98.38 560.65 54.71 540.73 52.67 538.23 96.55 541.26 96.82" />
               <text transform="matrix(-0.09, 1.02, -1, -0.09, 545.87, 63.33)">
                 230P
               </text>
             </g>
-            <g id="C1.2.229P" data-name="C1.2.229P">
-              <polyline points="535.14 96.28 538.23 96.55 540.73 52.67 514.88 50.69 512.97 94.67 531.49 95.97" />
+            <g id="C1.2.229P" data-name="C1.2.229P" onClick={() => onClassroomClick("C1.2.229P")}>
+              <polyline className={getClassroomColor("C1.2.229P")} points="535.14 96.28 538.23 96.55 540.73 52.67 514.88 50.69 512.97 94.67 531.49 95.97" />
               <text transform="matrix(-0.07, 1.02, -1, -0.07, 522.93, 61.46)">
                 229P
               </text>
             </g>
-            <g id="C1.2.228P" data-name="C1.2.228P">
-              <polyline points="509.96 94.5 512.97 94.67 514.88 50.69 488.79 49.48 488.2 93.55 506.5 94.31" />
+            <g id="C1.2.228P" data-name="C1.2.228P" onClick={() => onClassroomClick("C1.2.228P")}>
+              <polyline className={getClassroomColor("C1.2.228P")} points="509.96 94.5 512.97 94.67 514.88 50.69 488.79 49.48 488.2 93.55 506.5 94.31" />
               <text transform="matrix(-0.02, 1.02, -1, -0.02, 497.56, 58.82)">
                 228P
               </text>
             </g>
-            <g id="C1.2.227P" data-name="C1.2.227P">
-              <polyline points="485.21 93.49 488.2 93.55 488.79 49.48 462.88 49.07 464.19 93.16 481.69 93.38" />
+            <g id="C1.2.227P" data-name="C1.2.227P" onClick={() => onClassroomClick("C1.2.227P")}>
+              <polyline className={getClassroomColor("C1.2.227P")} points="485.21 93.49 488.2 93.55 488.79 49.48 462.88 49.07 464.19 93.16 481.69 93.38" />
               <text transform="matrix(-0.01, 1.02, -1, -0.01, 471.43, 58.76)">
                 227P
               </text>
             </g>
-            <g id="C1.2.226P" data-name="C1.2.226P">
-              <polyline points="461.11 93.16 464.19 93.16 462.88 49.07 436.83 49.45 438.73 93.49 457.42 93.17" />
+            <g id="C1.2.226P" data-name="C1.2.226P" onClick={() => onClassroomClick("C1.2.226P")}>
+              <polyline className={getClassroomColor("C1.2.226P")} points="461.11 93.16 464.19 93.16 462.88 49.07 436.83 49.45 438.73 93.49 457.42 93.17" />
               <text transform="matrix(0.02, 1.02, -1, 0.02, 445.49, 58.68)">
                 226P
               </text>
             </g>
-            <g id="C1.2.225P" data-name="C1.2.225P">
-              <polyline points="435.71 93.58 438.73 93.49 436.83 49.45 410.93 50.63 413.57 94.56 432.05 93.7" />
+            <g id="C1.2.225P" data-name="C1.2.225P" onClick={() => onClassroomClick("C1.2.225P")}>
+              <polyline className={getClassroomColor("C1.2.225P")} points="435.71 93.58 438.73 93.49 436.83 49.45 410.93 50.63 413.57 94.56 432.05 93.7" />
               <text transform="matrix(0.08, 1.02, -1, 0.08, 418.88, 60.28)">
                 225P
               </text>
             </g>
-            <g id="C1.2.224P" data-name="C1.2.224P">
-              <polyline points="410.63 94.74 413.57 94.56 410.93 50.63 384.53 52.63 387.87 96.42 406.42 95" />
+            <g id="C1.2.224P" data-name="C1.2.224P" onClick={() => onClassroomClick("C1.2.224P")}>
+              <polyline className={getClassroomColor("C1.2.224P")} points="410.63 94.74 413.57 94.56 410.93 50.63 384.53 52.63 387.87 96.42 406.42 95" />
               <text transform="matrix(0.09, 1.02, -1, 0.09, 394.76, 61.8)">
                 224P
               </text>
             </g>
-            <g id="C1.2.223K" data-name="C1.2.223K">
-              <polyline points="374.95 97.64 387.87 96.42 384.53 52.63 364.71 54.65 369.52 98.21 371.4 98.01" />
+            <g id="C1.2.223K" data-name="C1.2.223K" onClick={() => onClassroomClick("C1.2.223K")}>
+              <polyline className={getClassroomColor("C1.2.223K")} points="374.95 97.64 387.87 96.42 384.53 52.63 364.71 54.65 369.52 98.21 371.4 98.01" />
               <text transform="matrix(0.12, 1.02, -0.99, 0.12, 371.47, 63.35)">
                 223K
               </text>
             </g>
-            <g id="C1.2.222P" data-name="C1.2.222P">
-              <polyline points="366.6 98.53 369.52 98.21 364.71 54.65 338.7 57.95 343.91 101.31 362.93 98.94" />
+            <g id="C1.2.222P" data-name="C1.2.222P" onClick={() => onClassroomClick("C1.2.222P")}>
+              <polyline className={getClassroomColor("C1.2.222P")} points="366.6 98.53 369.52 98.21 364.71 54.65 338.7 57.95 343.91 101.31 362.93 98.94" />
               <text transform="matrix(0.11, 1.02, -0.99, 0.11, 348.16, 65.02)">
                 222P
               </text>
             </g>
-            <g id="C1.2.221P" data-name="C1.2.221P">
-              <polyline points="341.16 101.69 343.91 101.31 338.7 57.95 315.55 61.48 322.28 104.55 337.05 102.26" />
+            <g id="C1.2.221P" data-name="C1.2.221P" onClick={() => onClassroomClick("C1.2.221P")}>
+              <polyline className={getClassroomColor("C1.2.221P")} points="341.16 101.69 343.91 101.31 338.7 57.95 315.55 61.48 322.28 104.55 337.05 102.26" />
               <text transform="matrix(0.13, 1.01, -0.99, 0.14, 324.68, 68.77)">
                 221P
               </text>
@@ -537,92 +543,92 @@ const SecondFloorAll = () => {
         </g>
         <g id="C1.1">
           <g className="map-groups-rooms">
-            <g id="C1.1.273" data-name="C1.1.273">
-              <polyline points="47.14 192.58 52.18 202.74 20.97 216.81 7.62 192.77 40.65 179.29 45.38 188.86" />
+            <g id="C1.1.273" data-name="C1.1.273" onClick={() => onClassroomClick("C1.1.273")}>
+              <polyline className={getClassroomColor("C1.1.273")} points="47.14 192.58 52.18 202.74 20.97 216.81 7.62 192.77 40.65 179.29 45.38 188.86" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 23.12, 205.92)">
                 273
               </text>
             </g>
-            <g id="C1.1.272" data-name="C1.1.272">
-              <polyline points="54.87 208.22 52.18 202.74 20.97 216.81 29.28 231.78 59.26 217.15 56.51 211.54" />
+            <g id="C1.1.272" data-name="C1.1.272" onClick={() => onClassroomClick("C1.1.272")}>
+              <polyline className={getClassroomColor("C1.1.272")} points="54.87 208.22 52.18 202.74 20.97 216.81 29.28 231.78 59.26 217.15 56.51 211.54" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 33.43, 224.94)">
                 272
               </text>
             </g>
-            <g id="C1.1.271" data-name="C1.1.271">
-              <polyline points="62.08 222.87 59.26 217.15 29.28 231.78 37.33 246.28 66.82 232.51 63.8 226.37" />
+            <g id="C1.1.271" data-name="C1.1.271" onClick={() => onClassroomClick("C1.1.271")}>
+              <polyline className={getClassroomColor("C1.1.271")} points="62.08 222.87 59.26 217.15 29.28 231.78 37.33 246.28 66.82 232.51 63.8 226.37" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 41.91, 239.71)">
                 271
               </text>
             </g>
-            <g id="C1.1.270" data-name="C1.1.270">
-              <polyline points="69.54 238.05 66.82 232.51 37.33 246.28 45.2 260.45 73.71 246.52 71.1 241.22" />
+            <g id="C1.1.270" data-name="C1.1.270" onClick={() => onClassroomClick("C1.1.270")}>
+              <polyline className={getClassroomColor("C1.1.270")} points="69.54 238.05 66.82 232.51 37.33 246.28 45.2 260.45 73.71 246.52 71.1 241.22" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 49.18, 254.87)">
                 270
               </text>
             </g>
-            <g id="C1.1.269" data-name="C1.1.269">
-              <polyline points="76.88 252.97 73.71 246.52 45.2 260.45 53.59 275.57 81.57 262.51 78.5 256.26" />
+            <g id="C1.1.269" data-name="C1.1.269" onClick={() => onClassroomClick("C1.1.269")}>
+              <polyline className={getClassroomColor("C1.1.269")} points="76.88 252.97 73.71 246.52 45.2 260.45 53.59 275.57 81.57 262.51 78.5 256.26" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 56.55, 269.8)">
                 269
               </text>
             </g>
-            <g id="C1.1.268" data-name="C1.1.268">
-              <polyline points="83.92 267.07 81.57 262.51 53.59 275.57 61.34 289.52 88.37 276.35 86.13 271.88" />
+            <g id="C1.1.268" data-name="C1.1.268" onClick={() => onClassroomClick("C1.1.268")}>
+              <polyline className={getClassroomColor("C1.1.268")} points="83.92 267.07 81.57 262.51 53.59 275.57 61.34 289.52 88.37 276.35 86.13 271.88" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 64.91, 283.93)">
                 268
               </text>
             </g>
-            <g id="C1.1.267" data-name="C1.1.267">
-              <polyline points="91.34 282.39 88.37 276.35 61.34 289.52 69.78 304.73 96.02 291.89 93 285.77" />
+            <g id="C1.1.267" data-name="C1.1.267" onClick={() => onClassroomClick("C1.1.267")}>
+              <polyline className={getClassroomColor("C1.1.267")} points="91.34 282.39 88.37 276.35 61.34 289.52 69.78 304.73 96.02 291.89 93 285.77" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 72.24, 299.17)">
                 267
               </text>
             </g>
-            <g id="C1.1.266" data-name="C1.1.266">
-              <polyline points="98.65 297.25 96.02 291.89 69.72 304.62 77.52 318.66 103.14 306.38 100.33 300.67" />
+            <g id="C1.1.266" data-name="C1.1.266" onClick={() => onClassroomClick("C1.1.266")}>
+              <polyline className={getClassroomColor("C1.1.266")} points="98.65 297.25 96.02 291.89 69.72 304.62 77.52 318.66 103.14 306.38 100.33 300.67" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 80.11, 313.17)">
                 266
               </text>
             </g>
-            <g id="C1.1.265" data-name="C1.1.265">
-              <polyline points="104.87 309.89 103.14 306.38 77.47 318.57 85.56 333.15 110.08 320.49 108 316.27" />
+            <g id="C1.1.265" data-name="C1.1.265" onClick={() => onClassroomClick("C1.1.265")}>
+              <polyline className={getClassroomColor("C1.1.265")} points="104.87 309.89 103.14 306.38 77.47 318.57 85.56 333.15 110.08 320.49 108 316.27" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 88.35, 328.47)">
                 265
               </text>
             </g>
-            <g id="C1.1.264" data-name="C1.1.264">
-              <polyline points="113.28 327.01 110.08 320.49 85.56 333.15 93.89 348.15 117.91 336.44 114.76 330.04" />
+            <g id="C1.1.264" data-name="C1.1.264" onClick={() => onClassroomClick("C1.1.264")}>
+              <polyline className={getClassroomColor("C1.1.264")} points="113.28 327.01 110.08 320.49 85.56 333.15 93.89 348.15 117.91 336.44 114.76 330.04" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 95.99, 343.26)">
                 264
               </text>
             </g>
-            <g id="C1.1.263" data-name="C1.1.263">
-              <polyline points="120.6 341.9 117.91 336.44 93.83 348.04 101.44 361.75 124.69 350.2 122.17 345.09" />
+            <g id="C1.1.263" data-name="C1.1.263" onClick={() => onClassroomClick("C1.1.263")}>
+              <polyline className={getClassroomColor("C1.1.263")} points="120.6 341.9 117.91 336.44 93.83 348.04 101.44 361.75 124.69 350.2 122.17 345.09" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 103.11, 358.16)">
                 263
               </text>
             </g>
-            <g id="C1.1.262" data-name="C1.1.262">
-              <polyline points="125.37 351.6 124.69 350.2 101.44 361.75 107.28 372.26 130.23 361.48 126.97 354.84" />
+            <g id="C1.1.262" data-name="C1.1.262" onClick={() => onClassroomClick("C1.1.262")}>
+              <polyline className={getClassroomColor("C1.1.262")} points="125.37 351.6 124.69 350.2 101.44 361.75 107.28 372.26 130.23 361.48 126.97 354.84" />
               <text transform="matrix(0.88, -0.44, 0.43, 0.9, 109.23, 369.94)">
                 262
               </text>
             </g>
-            <g id="C1.1.261" data-name="C1.1.261">
-              <polyline points="133.6 359.9 107.28 372.26 119.51 394.29 148.43 381.88 146.11 376.8 148.19 375.76 139.9 356.94 135.95 358.79" />
+            <g id="C1.1.261" data-name="C1.1.261" onClick={() => onClassroomClick("C1.1.261")}>
+              <polyline className={getClassroomColor("C1.1.261")} points="133.6 359.9 107.28 372.26 119.51 394.29 148.43 381.88 146.11 376.8 148.19 375.76 139.9 356.94 135.95 358.79" />
               <text transform="translate(118.14 381.17) scale(0.98 1)">
                 261
               </text>
             </g>
-            <g id="C1.1.260P" data-name="C1.1.260P">
-              <polygon points="132.28 338.84 148.19 375.76 146.11 376.8 148.43 381.88 177.34 371.07 163.13 327.39 132.28 338.84" />
+            <g id="C1.1.260P" data-name="C1.1.260P" onClick={() => onClassroomClick("C1.1.260P")}>
+              <polygon className={getClassroomColor("C1.1.260P")} points="132.28 338.84 148.19 375.76 146.11 376.8 148.43 381.88 177.34 371.07 163.13 327.39 132.28 338.84" />
               <text transform="translate(142.89 358.17) scale(0.98 1)">
                 260P
               </text>
             </g>
-            <g id="C1.1.256P" data-name="C1.1.256P">
-              <polyline points="148.11 319.07 151.17 317.88 136.41 276.6 110.52 286.26 127.79 326.98 145.2 320.21" />
+            <g id="C1.1.256P" data-name="C1.1.256P" onClick={() => onClassroomClick("C1.1.256P")}>
+              <polyline className={getClassroomColor("C1.1.256P")} points="148.11 319.07 151.17 317.88 136.41 276.6 110.52 286.26 127.79 326.98 145.2 320.21" />
               <text
                 className="fit-text"
                 transform="translate(119.51 304.7) scale(0.98 1)"
@@ -630,8 +636,8 @@ const SecondFloorAll = () => {
                 256P
               </text>
             </g>
-            <g id="C1.1.255P" data-name="C1.1.255P">
-              <polyline points="157.22 315.75 176.35 309.01 162.55 267.62 136.41 276.6 151.17 317.88 153.78 316.96" />
+            <g id="C1.1.255P" data-name="C1.1.255P" onClick={() => onClassroomClick("C1.1.255P")}>
+              <polyline className={getClassroomColor("C1.1.255P")} points="157.22 315.75 176.35 309.01 162.55 267.62 136.41 276.6 151.17 317.88 153.78 316.96" />
               <text
                 className="fit-text"
                 transform="translate(145.4 297.41) scale(0.98 1)"
@@ -639,8 +645,8 @@ const SecondFloorAll = () => {
                 255P
               </text>
             </g>
-            <g id="C1.1.254L" data-name="C1.1.254L">
-              <polyline points="119.08 248.02 97.32 256.27 110.52 286.26 136.41 276.6 125.3 245.66 122.26 246.81" />
+            <g id="C1.1.254L" data-name="C1.1.254L" onClick={() => onClassroomClick("C1.1.254L")}>
+              <polyline className={getClassroomColor("C1.1.254L")} points="119.08 248.02 97.32 256.27 110.52 286.26 136.41 276.6 125.3 245.66 122.26 246.81" />
               <text
                 className="fit-text"
                 transform="translate(105.66 270.47) scale(0.98 1)"
@@ -648,8 +654,8 @@ const SecondFloorAll = () => {
                 254L
               </text>
             </g>
-            <g id="C1.1.253L" data-name="C1.1.253L">
-              <polyline points="128.21 244.71 125.3 245.66 136.41 276.6 162.55 267.62 152.29 236.82 131.24 243.71" />
+            <g id="C1.1.253L" data-name="C1.1.253L" onClick={() => onClassroomClick("C1.1.253L")}>
+              <polyline className={getClassroomColor("C1.1.253L")} points="128.21 244.71 125.3 245.66 136.41 276.6 162.55 267.62 152.29 236.82 131.24 243.71" />
               <text
                 className="fit-text"
                 transform="translate(132.28 261.18) scale(0.98 1)"
@@ -657,20 +663,20 @@ const SecondFloorAll = () => {
                 253L
               </text>
             </g>
-            <g id="C1.1.252L" data-name="C1.1.252L">
-              <polyline points="105.4 228.65 109.78 226.97 90.22 173.11 60.79 184.52 83.28 237.12 101.78 230.04" />
+            <g id="C1.1.252L" data-name="C1.1.252L" onClick={() => onClassroomClick("C1.1.252L")}>
+              <polyline className={getClassroomColor("C1.1.252L")} points="105.4 228.65 109.78 226.97 90.22 173.11 60.79 184.52 83.28 237.12 101.78 230.04" />
               <text transform="translate(73.71 207.69) scale(0.98 1)">
                 252L
               </text>
             </g>
-            <g id="C1.1.251L" data-name="C1.1.251L">
-              <polyline points="112.33 226.09 109.78 226.97 90.22 173.11 120.37 162.87 138.31 217.04 116.18 224.74" />
+            <g id="C1.1.251L" data-name="C1.1.251L" onClick={() => onClassroomClick("C1.1.251L")}>
+              <polyline className={getClassroomColor("C1.1.251L")} points="112.33 226.09 109.78 226.97 90.22 173.11 120.37 162.87 138.31 217.04 116.18 224.74" />
               <text transform="translate(103.14 198.65) scale(0.98 1)">
                 251L
               </text>
             </g>
-            <g id="C1.1.250" data-name="C1.1.250">
-              <polyline points="145.57 230.7 143.8 231.22 146.13 238.71 166.74 232.34 164.81 224.94 148.77 229.74" />
+            <g id="C1.1.250" data-name="C1.1.250" onClick={() => onClassroomClick("C1.1.250")}>
+              <polyline className={getClassroomColor("C1.1.250")} points="145.57 230.7 143.8 231.22 146.13 238.71 166.74 232.34 164.81 224.94 148.77 229.74" />
               <text
                 className="fit-text"
                 transform="matrix(0.94, -0.28, 0.28, 0.96, 150.48, 235.88)"
@@ -678,8 +684,8 @@ const SecondFloorAll = () => {
                 250
               </text>
             </g>
-            <g id="C1.1.248" data-name="C1.1.248">
-              <polyline points="207.39 212.22 173.07 222.01 175.32 230.07 214.3 219.35 212.17 210.86 210.41 211.36" />
+            <g id="C1.1.248" data-name="C1.1.248" onClick={() => onClassroomClick("C1.1.248")}>
+              <polyline className={getClassroomColor("C1.1.248")} points="207.39 212.22 173.07 222.01 175.32 230.07 214.3 219.35 212.17 210.86 210.41 211.36" />
               <text
                 className="fit-text"
                 transform="matrix(0.95, -0.24, 0.24, 0.97, 188.52, 224.19)"
@@ -687,8 +693,8 @@ const SecondFloorAll = () => {
                 248
               </text>
             </g>
-            <g id="C1.1.246" data-name="C1.1.246">
-              <polyline points="237.04 205.07 220.84 209.12 222.86 217.34 243.43 211.96 241.66 203.92 240.24 204.27" />
+            <g id="C1.1.246" data-name="C1.1.246" onClick={() => onClassroomClick("C1.1.246")}>
+              <polyline className={getClassroomColor("C1.1.246")} points="237.04 205.07 220.84 209.12 222.86 217.34 243.43 211.96 241.66 203.92 240.24 204.27" />
               <text
                 className="fit-text"
                 transform="matrix(0.95, -0.24, 0.24, 0.97, 227.12, 214.47)"
@@ -696,8 +702,8 @@ const SecondFloorAll = () => {
                 246
               </text>
             </g>
-            <g id="C1.1.245K" data-name="C1.1.245K">
-              <polyline points="302.31 290.58 299.59 290.99 307.17 335.16 334.71 330.86 328.16 286.69 305.24 290.14" />
+            <g id="C1.1.245K" data-name="C1.1.245K" onClick={() => onClassroomClick("C1.1.245K")}>
+              <polyline className={getClassroomColor("C1.1.245K")} points="302.31 290.58 299.59 290.99 307.17 335.16 334.71 330.86 328.16 286.69 305.24 290.14" />
               <text
                 className="fit-text"
                 transform="translate(307.17 314.79) scale(0.98 1)"
@@ -705,8 +711,8 @@ const SecondFloorAll = () => {
                 245K
               </text>
             </g>
-            <g id="C1.1.244K" data-name="C1.1.244K">
-              <polyline points="277.37 295.3 274.47 295.86 283.17 340.18 307.17 335.16 299.59 290.99 280.54 294.69" />
+            <g id="C1.1.244K" data-name="C1.1.244K" onClick={() => onClassroomClick("C1.1.244K")}>
+              <polyline className={getClassroomColor("C1.1.244K")} points="277.37 295.3 274.47 295.86 283.17 340.18 307.17 335.16 299.59 290.99 280.54 294.69" />
               <text
                 className="fit-text"
                 transform="translate(280.75 318.83) scale(0.98 1)"
@@ -714,20 +720,20 @@ const SecondFloorAll = () => {
                 244K
               </text>
             </g>
-            <g id="C1.1.242K" data-name="C1.1.242K">
-              <polyline points="287.45 277.29 288.11 280.29 326.29 274.44 322.34 247.44 282.96 254.66 286.67 273.4" />
+            <g id="C1.1.242K" data-name="C1.1.242K" onClick={() => onClassroomClick("C1.1.242K")}>
+              <polyline className={getClassroomColor("C1.1.242K")} points="287.45 277.29 288.11 280.29 326.29 274.44 322.34 247.44 282.96 254.66 286.67 273.4" />
               <text transform="translate(292.29 270.15) scale(0.98 1)">
                 242K
               </text>
             </g>
-            <g id="C1.1.241K" data-name="C1.1.241K">
-              <polyline points="282.36 251.53 282.96 254.64 322.34 247.44 318.81 223.55 278.48 230.03 281.71 247.38" />
+            <g id="C1.1.241K" data-name="C1.1.241K" onClick={() => onClassroomClick("C1.1.241K")}>
+              <polyline className={getClassroomColor("C1.1.241K")} points="282.36 251.53 282.96 254.64 322.34 247.44 318.81 223.55 278.48 230.03 281.71 247.38" />
               <text transform="translate(288.15 243.52) scale(0.98 1)">
                 241K
               </text>
             </g>
-            <g id="C1.1.240K" data-name="C1.1.240K">
-              <polyline points="269.27 250.22 268.58 246.45 247.12 251.22 254.82 287.27 275.22 282.76 269.94 253.91" />
+            <g id="C1.1.240K" data-name="C1.1.240K" onClick={() => onClassroomClick("C1.1.240K")}>
+              <polyline className={getClassroomColor("C1.1.240K")} points="269.27 250.22 268.58 246.45 247.12 251.22 254.82 287.27 275.22 282.76 269.94 253.91" />
               <text
                 className="fit-text"
                 transform="translate(251.33 270.91) scale(0.98 1)"
@@ -735,14 +741,14 @@ const SecondFloorAll = () => {
                 240K
               </text>
             </g>
-            <g id="C1.1.239K" data-name="C1.1.239K">
-              <polyline points="278.04 227.61 278.48 230 318.81 223.55 315.25 199.62 274.31 206.35 277.46 223.61" />
+            <g id="C1.1.239K" data-name="C1.1.239K" onClick={() => onClassroomClick("C1.1.239K")}>
+              <polyline className={getClassroomColor("C1.1.239K")} points="278.04 227.61 278.48 230 318.81 223.55 315.25 199.62 274.31 206.35 277.46 223.61" />
               <text transform="translate(283.09 219.11) scale(0.98 1)">
                 239K
               </text>
             </g>
-            <g id="C1.1.238K" data-name="C1.1.238K">
-              <polyline points="262.69 214.11 261.65 208.44 238.99 213.15 247.12 251.22 268.58 246.45 263.33 217.62" />
+            <g id="C1.1.238K" data-name="C1.1.238K" onClick={() => onClassroomClick("C1.1.238K")}>
+              <polyline className={getClassroomColor("C1.1.238K")} points="262.69 214.11 261.65 208.44 238.99 213.15 247.12 251.22 268.58 246.45 263.33 217.62" />
               <text
                 className="fit-text"
                 transform="translate(244.21 232.98) scale(0.98 1)"
@@ -750,39 +756,39 @@ const SecondFloorAll = () => {
                 238K
               </text>
             </g>
-            <g id="C1.1.235P" data-name="C1.1.235P">
-              <polyline points="265.81 158.89 270.24 182.53 311.67 175.42 307.23 145.47 264.64 152.23 265.13 154.84" />
+            <g id="C1.1.235P" data-name="C1.1.235P" onClick={() => onClassroomClick("C1.1.235P")}>
+              <polyline className={getClassroomColor("C1.1.235P")} points="265.81 158.89 270.24 182.53 311.67 175.42 307.23 145.47 264.64 152.23 265.13 154.84" />
               <text transform="translate(276.26 167.03) scale(0.98 1)">
                 235P
               </text>
             </g>
-            <g id="C1.1.234P" data-name="C1.1.234P">
-              <polyline points="248.15 131.93 247.66 129.25 226.14 133.87 239.1 188.63 257.85 184.89 248.8 135.52" />
+            <g id="C1.1.234P" data-name="C1.1.234P" onClick={() => onClassroomClick("C1.1.234P")}>
+              <polyline className={getClassroomColor("C1.1.234P")} points="248.15 131.93 247.66 129.25 226.14 133.87 239.1 188.63 257.85 184.89 248.8 135.52" />
               <text transform="matrix(0.2, 1, -0.98, 0.2, 235.8, 146.59)">
                 234P
               </text>
             </g>
-            <g id="C1.1.233P" data-name="C1.1.233P">
-              <polyline points="263.51 126.3 260.03 126.89 264.63 152.1 307.23 145.47 303.4 119.62 266.91 125.73" />
+            <g id="C1.1.233P" data-name="C1.1.233P" onClick={() => onClassroomClick("C1.1.233P")}>
+              <polyline className={getClassroomColor("C1.1.233P")} points="263.51 126.3 260.03 126.89 264.63 152.1 307.23 145.47 303.4 119.62 266.91 125.73" />
               <text transform="translate(272.59 140.05) scale(0.98 1)">
                 233P
               </text>
             </g>
-            <g id="C1.1.232P" data-name="C1.1.232P">
+            <g id="C1.1.232P" data-name="C1.1.232P" onClick={() => onClassroomClick("C1.1.232P")}>
               <line x1="293.13" y1="108.72" x2="265.25" y2="113.42" />
               <polyline points="297.42 108.01 301.57 107.3 295.21 64.37 250.31 72.24 258.76 114.51 261.3 114.09" />
               <text transform="translate(264.64 93.65) scale(0.98 1)">
                 232P
               </text>
             </g>
-            <g id="C1.1.231P" data-name="C1.1.231P">
-              <polyline points="251.3 116 234.99 119.23 226.29 77.41 250.31 72.24 258.76 114.51 254.59 115.34" />
+            <g id="C1.1.231P" data-name="C1.1.231P" onClick={() => onClassroomClick("C1.1.231P")}>
+              <polyline className={getClassroomColor("C1.1.231P")} points="251.3 116 234.99 119.23 226.29 77.41 250.31 72.24 258.76 114.51 254.59 115.34" />
               <text transform="matrix(0.2, 1, -0.98, 0.2, 235.8, 84.81)">
                 231P
               </text>
             </g>
-            <g id="C1.1.230P" data-name="C1.1.230P">
-              <polygon points="207.59 81.78 212.28 102.39 230.67 98.45 226.29 77.41 207.59 81.78" />
+            <g id="C1.1.230P" data-name="C1.1.230P" onClick={() => onClassroomClick("C1.1.230P")}>
+              <polygon className={getClassroomColor("C1.1.230P")} points="207.59 81.78 212.28 102.39 230.67 98.45 226.29 77.41 207.59 81.78" />
               <text
                 className="fit-text"
                 transform="matrix(0.71, 0.7, -0.69, 0.73, 212.29, 86.2)"
@@ -790,8 +796,8 @@ const SecondFloorAll = () => {
                 230P
               </text>
             </g>
-            <g id="C1.1.229P" data-name="C1.1.229P">
-              <polygon points="216.94 122.9 234.99 119.23 230.67 98.45 212.28 102.39 216.94 122.9" />
+            <g id="C1.1.229P" data-name="C1.1.229P" onClick={() => onClassroomClick("C1.1.229P")}>
+              <polygon className={getClassroomColor("C1.1.229P")} points="216.94 122.9 234.99 119.23 230.67 98.45 212.28 102.39 216.94 122.9" />
               <text
                 className="fit-text"
                 transform="matrix(0.73, 0.68, -0.67, 0.75, 216.93, 106.52)"
@@ -799,50 +805,50 @@ const SecondFloorAll = () => {
                 229P
               </text>
             </g>
-            <g id="C1.1.228P" data-name="C1.1.228P">
-              <polygon points="182.67 88.08 207.59 81.78 216.94 122.9 193.14 128.56 182.67 88.08" />
+            <g id="C1.1.228P" data-name="C1.1.228P" onClick={() => onClassroomClick("C1.1.228P")}>
+              <polygon className={getClassroomColor("C1.1.228P")} points="182.67 88.08 207.59 81.78 216.94 122.9 193.14 128.56 182.67 88.08" />
               <text transform="matrix(0.27, 0.99, -0.96, 0.27, 192.61, 93.62)">
                 228P
               </text>
             </g>
-            <g id="C1.1.227P" data-name="C1.1.227P">
-              <polyline points="190.61 129.24 193.14 128.56 182.67 88.08 158.57 94.64 169.8 134.8 187.21 130.15" />
+            <g id="C1.1.227P" data-name="C1.1.227P" onClick={() => onClassroomClick("C1.1.227P")}>
+              <polyline className={getClassroomColor("C1.1.227P")} points="190.61 129.24 193.14 128.56 182.67 88.08 158.57 94.64 169.8 134.8 187.21 130.15" />
               <text transform="matrix(0.27, 0.98, -0.96, 0.28, 169.09, 100.51)">
                 227P
               </text>
             </g>
-            <g id="C1.1.226P" data-name="C1.1.226P">
-              <polyline points="163.4 136.63 146.52 141.47 134.32 101.7 158.57 94.64 169.8 134.8 167.06 135.59" />
+            <g id="C1.1.226P" data-name="C1.1.226P" onClick={() => onClassroomClick("C1.1.226P")}>
+              <polyline className={getClassroomColor("C1.1.226P")} points="163.4 136.63 146.52 141.47 134.32 101.7 158.57 94.64 169.8 134.8 167.06 135.59" />
               <text transform="matrix(0.28, 0.98, -0.96, 0.29, 146.19, 106.54)">
                 226P
               </text>
             </g>
-            <g id="C1.1.225P" data-name="C1.1.225P">
-              <polyline points="140.17 143.41 123.42 148.51 109.79 109.29 134.32 101.7 146.52 141.47 143.56 142.38" />
+            <g id="C1.1.225P" data-name="C1.1.225P" onClick={() => onClassroomClick("C1.1.225P")}>
+              <polyline className={getClassroomColor("C1.1.225P")} points="140.17 143.41 123.42 148.51 109.79 109.29 134.32 101.7 146.52 141.47 143.56 142.38" />
               <text transform="matrix(0.29, 0.98, -0.95, 0.3, 121.92, 113.39)">
                 225P
               </text>
             </g>
-            <g id="C1.1.224P" data-name="C1.1.224P">
-              <polyline points="117.33 150.6 93.24 158.85 80.12 119.09 109.79 109.29 123.42 148.51 120.44 149.51" />
+            <g id="C1.1.224P" data-name="C1.1.224P" onClick={() => onClassroomClick("C1.1.224P")}>
+              <polyline className={getClassroomColor("C1.1.224P")} points="117.33 150.6 93.24 158.85 80.12 119.09 109.79 109.29 123.42 148.51 120.44 149.51" />
               <text transform="matrix(0.32, 0.97, -0.95, 0.33, 94.46, 122.92)">
                 224P
               </text>
             </g>
-            <g id="C1.1.223P" data-name="C1.1.223P">
-              <polyline points="91.19 159.6 93.24 158.85 80.12 119.09 51.29 129.25 52.76 133.61 57.3 132.13 70.97 166.93 87.68 160.87" />
+            <g id="C1.1.223P" data-name="C1.1.223P" onClick={() => onClassroomClick("C1.1.223P")}>
+              <polyline className={getClassroomColor("C1.1.223P")} points="91.19 159.6 93.24 158.85 80.12 119.09 51.29 129.25 52.76 133.61 57.3 132.13 70.97 166.93 87.68 160.87" />
               <text transform="matrix(0.35, 0.96, -0.93, 0.35, 66.85, 132.58)">
                 223P
               </text>
             </g>
-            <g id="C1.1.222P" data-name="C1.1.222P">
-              <polyline points="60.65 170.9 54.92 173.1 38.4 133.99 51.29 129.25 52.76 133.61 57.3 132.13 70.97 166.93 64.52 169.41" />
+            <g id="C1.1.222P" data-name="C1.1.222P" onClick={() => onClassroomClick("C1.1.222P")}>
+              <polyline className={getClassroomColor("C1.1.222P")} points="60.65 170.9 54.92 173.1 38.4 133.99 51.29 129.25 52.76 133.61 57.3 132.13 70.97 166.93 64.52 169.41" />
               <text transform="matrix(0.36, 0.95, -0.93, 0.37, 45.32, 140.05)">
                 222P
               </text>
             </g>
-            <g id="C1.1.221P" data-name="C1.1.221P">
-              <polyline points="52.41 174.19 54.92 173.1 38.4 133.99 18.82 143.01 9.96 149.84 3.49 158.85 1.04 168.82 3.18 182.78 7.62 192.77 40.65 179.29 48.74 175.78" />
+            <g id="C1.1.221P" data-name="C1.1.221P" onClick={() => onClassroomClick("C1.1.221P")}>
+              <polyline className={getClassroomColor("C1.1.221P")} points="52.41 174.19 54.92 173.1 38.4 133.99 18.82 143.01 9.96 149.84 3.49 158.85 1.04 168.82 3.18 182.78 7.62 192.77 40.65 179.29 48.74 175.78" />
               <text transform="translate(13.8 167.03) scale(0.98 1)">221P</text>
             </g>
           </g>
