@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aitumap-schedules/static/css/main.7a95ca7d.css",
+    "main.js": "/aitumap-schedules/static/js/main.d3913f42.js",
+    "index.html": "/aitumap-schedules/index.html",
+    "main.7a95ca7d.css.map": "/aitumap-schedules/static/css/main.7a95ca7d.css.map",
+    "main.d3913f42.js.map": "/aitumap-schedules/static/js/main.d3913f42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a95ca7d.css",
+    "static/js/main.d3913f42.js"
+  ]
+}
