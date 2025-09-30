@@ -25,28 +25,49 @@ const MapProvider = ({ children }) => {
     let isYourClassToday = false;
     let isYourClassNow = false;
 
-    const classroomSchedule = classRoomSchedules[classroomName];
+      let classroomSchedule = classRoomSchedules[classroomName];
 
-    if (classroomSchedule && classroomSchedule[dayOfWeek]) {
-      classroomSchedule[dayOfWeek].forEach((classInfo) => {
-        const [startTime, endTime] = classInfo.time.split("-");
-        if (currentTime >= startTime && currentTime <= endTime) {
-          isOccupied = true;
-        }
-      });
-    }
-
-    if (groupSchedule && groupSchedule[dayOfWeek]) {
-      groupSchedule[dayOfWeek].forEach((classInfo) => {
-        if (classInfo.classroom === classroomName) {
-          isYourClassToday = true;
-          const [startTime, endTime] = classInfo.time.split("-");
-          if (currentTime >= startTime && currentTime <= endTime) {
-            isYourClassNow = true;
+// If classroomName ends with 'P' or 'K', check both variants and use the valid one
+      if (
+          (!classroomSchedule || !classRoomSchedules[classroomName][dayOfWeek]) &&
+          (classroomName.endsWith("P") || classroomName.endsWith("K"))
+      ) {
+          const alt =
+              classroomName.endsWith("P")
+                  ? classroomName.slice(0, -1) + "K"
+                  : classroomName.slice(0, -1) + "P";
+          if (classRoomSchedules[alt]) {
+              classroomSchedule = classRoomSchedules[alt];
           }
-        }
-      });
-    }
+      }
+
+      if (classroomSchedule && classroomSchedule[dayOfWeek]) {
+          classroomSchedule[dayOfWeek].forEach((classInfo) => {
+              const [startTime, endTime] = classInfo.time.split("-");
+              if (currentTime >= startTime && currentTime <= endTime) {
+                  isOccupied = true;
+              }
+          });
+      }
+
+      if (groupSchedule && groupSchedule[dayOfWeek]) {
+          groupSchedule[dayOfWeek].forEach((classInfo) => {
+              if (
+                  classInfo.classroom === classroomName ||
+                  (classroomName.endsWith("P") || classroomName.endsWith("K")) &&
+                  classInfo.classroom ===
+                  (classroomName.endsWith("P")
+                      ? classroomName.slice(0, -1) + "K"
+                      : classroomName.slice(0, -1) + "P")
+              ) {
+                  isYourClassToday = true;
+                  const [startTime, endTime] = classInfo.time.split("-");
+                  if (currentTime >= startTime && currentTime <= endTime) {
+                      isYourClassNow = true;
+                  }
+              }
+          });
+      }
 
     if (isYourClassNow) {
       return "yourClassNow";
