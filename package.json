@@ -1,7 +1,7 @@
 {
-  "homepage": "https://Yuujiso.github.io/aitumap",
-  "name": "aitumap",
-  "version": "0.2.0",
+  "homepage": "https://gybratyy.github.io/aitumap-schedules",
+  "name": "aitumap-schedules",
+  "version": "0.3.0",
   "private": false,
   "dependencies": {
     "@chakra-ui/icons": "^2.0.17",
