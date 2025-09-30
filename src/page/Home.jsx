@@ -39,7 +39,6 @@ const Home = ({ isIOS }) => {
         <>
             <FloorOption />
             <Search />
-            <Sidebar />
             {isIOS ? (
                 <ShowIOS
                     selectedFloorBlockOption={selectedFloorOption + selectedBlockOption}

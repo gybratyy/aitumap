@@ -2,7 +2,7 @@
 
 ```bash
 
-git clone https://github.com/Yuujiso/aitumap.git
+git clone https://github.com/gybratyy/aitumap.git
 yarn install
 
 ```
@@ -15,5 +15,5 @@ yarn start
 
 ## Contributing
 
-Используйте карту свободно в своих проектах, но с упоминанием автора.
-С радостью принимаем исправления и улучшения, кидайте коммиты и форки)
+Используйте карту свободно в своих проектах, но с упоминанием автора(https://github.com/Yuujiso).
+С радостью принимаем исправления и улучшения, кидайте коммиты и форки
